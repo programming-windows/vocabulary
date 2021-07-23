@@ -1,4 +1,8 @@
 
+podcasts:
+* https://www.everythingisalive.com/
+
+
 China makes,
 USA prints,
 EU talks,
