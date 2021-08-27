@@ -1,4 +1,15 @@
 
+## perpendicular
+
+[ˌpɜrpənˈdɪkjələ(r)]
+
+adj.
+垂直的，成直角的; 直立的，险陡的; [建]垂直式的; 〈谑〉直站着的
+
+n.
+垂直线，垂直面; 直立，直立姿势，廉直; 垂直测器，锤规; [建]垂直式建筑，绝壁
+
+
 ## pillar
 
 [ˈpɪlər]
@@ -95,6 +106,17 @@ n.
 筒仓; 发射井; 地下贮藏库; 青贮窖
 
 
+## sip
+
+[sɪp]
+
+n.
+呷的动作; 一呷之量
+
+vt.& vi.
+小口喝，呷; 从…中呷吸
+
+
 ## slimy
 
 [ˈslaɪmi]
@@ -130,6 +152,13 @@ vt.
 周遭游
 
 
+## straighten up
+
+[ˈstretn ʌp]
+
+直起来；整理；收拾整齐
+
+
 ## stretched thin
 
 What does the expression “be stretched thin” mean? 
@@ -146,6 +175,18 @@ vacation, but the workload doesn’t diminish.
 
 n.
 乌龟; 行动迟缓的人（或物）
+
+
+## traumatic
+
+[traʊˈmætɪk]
+
+adj.
+<医>外伤的损伤的; 创伤的; 治外伤的
+
+I think what we're all trying to say is, how traumatic the experience was for you
+
+Divorce can be traumatic for everyone involved.
 
 
 ## trim your nails

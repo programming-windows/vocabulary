@@ -1,3 +1,16 @@
+# A-G
+
+## aroma
+
+[əˈroʊmə]
+
+n.
+芳香，香味; 气派，风格
+
+a distinctive, typically pleasant smell.
+
+#### Fragrant. Term applied to wines with pronounced and pleasing aroma.
+
 
 ## authentic
 
@@ -58,6 +71,21 @@ n.
 [ˈkʌdli]
 
 cuddly dog 粘人的狗
+
+
+## detour
+
+[ˈdiːtʊr]
+
+v.
+绕路，绕道
+
+n.
+绕道; 弯路
+
+A PennDOT spokesperson says it's because of an embankment slide, 
+but that means that people who use that road everyday will have will 
+have to take a 20-mile detour.
 
 
 ## down the drain
@@ -121,46 +149,4 @@ ferocious lion
 恶作剧
 
 
-## hare
-
-[her]
-
-n.
-野兔; 怪人，傻瓜
-vt.& vi.
-飞跑，疾走
-
-
-## involution
-
-[ˌɪnvə'luʃən]
-
-n.
-内卷; 卷绕，回旋; 复归; 包卷; 对合
-
-
-## lamppost
-
-[ˈlæmpˌpost]
-
-n.
-灯杆，路灯柱
-
-
-## literacy
-
-[ˈlɪtərəsi]
-
-* financial literacy
-* scientific literacy —— 科学素养
-
-
-## lunatic
-
-[ˈluːnətɪk]
-
-n.
-精神失常者，精神病人; 疯子; 极愚蠢的人; 狂人
-adj.
-疯狂的; 精神错乱的; 愚蠢的; 极端的
 
