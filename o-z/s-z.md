@@ -1,102 +1,4 @@
-
-## perpendicular
-
-[ˌpɜrpənˈdɪkjələ(r)]
-
-adj.
-垂直的，成直角的; 直立的，险陡的; [建]垂直式的; 〈谑〉直站着的
-
-n.
-垂直线，垂直面; 直立，直立姿势，廉直; 垂直测器，锤规; [建]垂直式建筑，绝壁
-
-
-## pillar
-
-[ˈpɪlər]
-
-n.
-柱，台柱，顶梁柱; 墩，柱脚; （组织、制度、信仰等的）核心
-
-Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
-
-
-## phobia
-
-[ˈfoʊbiə]
-
-n.
-恐惧; 厌恶
-
-
-## prenup
-
-['prinʌp]
-
-n.
-<美><口>婚前协议
-
-
-## puffer fish
-
-['pʌfər]
-
-n.
-河豚
-
-
-## quarantine
-
-[ˈkwɔːrəntiːn]
-
-n.
-检疫期，隔离期; 检疫所，隔离所; 四十天的时间
-
-vt.
-对…进行检疫; 隔离
-
-She is at the hospital in quarantine. 她在医院被隔离
-
-
-## rabid
-
-[ˈræbɪd]
-
-rabid dog 疯狗
-
-
-## roll down
-
-I really need some air. Alex, lower your window.
-
-I really need some air. Alex, roll down your window.
-
-The window on the green one is down 绿车窗未关
-
-Do not roll down the window 不要摇下/打开车窗
-
-Row the window down some more 把车窗再摇下一点
-
-
-## roundabout
-
-n.
-交通环岛; 旋转木马; 旋转圆台
-
-adj.
-迂回的
-
-
-## rug
-
-[rʌɡ]
-
-n.
-小块地毯; 〈英〉（围盖膝的）围毯，车毯; 〈美俚男子假发
-
-bathroom rugs
-
-![bathroom rugs](pix/rug.jpg)
-
+# S-Z
 
 ## silo
 
@@ -159,6 +61,20 @@ vt.
 直起来；整理；收拾整齐
 
 
+## stranded
+
+[ˈstrændɪd]
+
+adj.
+处于困境的
+
+v.
+使滞留，使搁浅( strand的过去式和过去分词 )
+
+Welcome back, we told you about a private community in Lycoming County last week that 
+was pretty much stranded after a bridge gave out on their private road.
+
+
 ## stretched thin
 
 What does the expression “be stretched thin” mean? 
@@ -219,3 +135,16 @@ adj.
 好发牢骚的，嘀咕不停的，烦躁的
 
 habitually complaining
+
+
+## wig
+
+[wɪɡ]
+
+n.
+假发，法官帽; 〈美俚〉知识分子
+
+He disguised himself with a wig and false beard.
+
+
+
