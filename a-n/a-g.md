@@ -1,5 +1,20 @@
 # A-G
 
+## apron
+
+[ˈeɪprən]
+
+n.
+围裙; 〈航〉 停机坪
+
+Oh, you're losin'your apron here, let me get it.
+
+* Oh, hey.
+* Hey.
+* Tie my apron, will you? 
+* My pleasure.
+
+
 ## aroma
 
 [əˈroʊmə]
@@ -20,6 +35,25 @@ adj.
 正宗的; 真正的; 真诚的; 逼真的; 可靠的
 
 would you say this is pretty authentic 非常正宗
+
+
+## barrel in(to)
+
+[ˈbærəl]
+
+1. To enter some place abruptly or aggressively, or force one's way into a place or thing.
+    * He just barreled into the meeting with no warning.
+    * Don't barrel in here talking loudly—this is a church!
+    * Hurricane Ida, barreling into the Louisiana coast overnight, the 
+    devastation in the region felt throughout small towns, many without the kind of
+    infrastructure New Orleans built up after hurricane Katrina.
+2. To collide with someone or something.
+    * There's a dent in the garage door from when my son barreled into it with his bike.
+    * I rounded the corner and nearly barreled into Tara.
+
+[wgno.com](https://wgno.com/tracking-ida/breaking-hurricane-ida-now-a-category-4-storm/)
+
+[跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724?logTag=d5b2fa2f52900de18ae5)
 
 
 ## boner / booboo
@@ -64,6 +98,16 @@ bear the brunt
 
 n.
 幽闭恐怖
+
+
+## cleavage
+
+[ˈklivɪdʒ]
+
+n.
+分裂; [胚] 卵裂; 乳沟
+
+Mary's gown exposes too much cleavage.
 
 
 ## cuddly
@@ -144,9 +188,33 @@ adj.
 ferocious lion
 
 
+## fowl
+
+[faʊl]
+
+n.
+鸡; 家禽
+
+Carve the fowl into 8 pieces.
+
+
 ## funny business
 
 恶作剧
+
+
+## gullible
+
+[ˈɡʌləbəl]
+
+adj.
+易受骗的，轻信的
+
+Lenard, what did we say about being a gullible weenie?
+
+[生活大爆炸片段](https://www.ixigua.com/7003595609609339406?logTag=83d159592af775280843)
+
+
 
 
 

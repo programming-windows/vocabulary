@@ -47,6 +47,21 @@ vt.
 浸泡，浸透; 吸入; 沉浸在（工作或学习中）; 湿透
 
 
+## squint
+
+[skwɪnt]
+
+v.
+斜视; 斜着眼睛看; 倾向; 瞇着眼睛看
+
+n.
+斜视; 一瞥
+
+If I squint, I can pretend he's Alan Alda.
+
+[老友记片段](https://www.ixigua.com/7003653369168560676?logTag=c4718f62014eb8f4f1e8)
+
+
 ## staycation
 
 [ˌsteɪ'keɪʃn]
@@ -85,6 +100,22 @@ What does the expression “be stretched thin” mean?
 vacation, but the workload doesn’t diminish.
 
 
+## swindle
+
+[ˈswɪndl]
+
+vt.
+诈骗，骗取; 欺骗，诓骗
+
+n.
+诈骗，骗取; 骗局; 冒牌货，冒名顶替者
+
+You're a fraud, your profession is a **swindle**, 
+and, uh, your livelihood is dependent on the gullibility of stupid people.
+
+[大爆炸片段](https://www.ixigua.com/7004070526461149703?logTag=7822b2fa4afd4e0e524b)
+
+
 ## tortoise
 
 [ˈtɔːrtəs]
@@ -120,11 +151,31 @@ n.
 yummy in my tummy
 
 
+## urinate
+
+[ˈjʊrəneɪt]
+
+vi.
+排尿，撒尿
+
+I have to urinate
+
+
 ## venomous snake
 
 [ˈvɛnəməs]
 
 毒蛇
+
+
+## weenie
+
+[ˈwini]
+
+n.
+[美国口语]]维也纳火腿肠; 给成功罩上阴影的东西; 蠢货[亦作 weeny, winie,wiener,ween]
+
+![weenie](pix/weenie.jpg)
 
 
 ## whiney
