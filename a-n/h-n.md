@@ -21,6 +21,19 @@ vt.& vi.
 飞跑，疾走
 
 
+## hit me again
+
+1. In blackjack, a request for the dealer to give one another card.
+
+I was still pretty far from 21, so I said, "Hit me again!"
+
+2. slang A request for another alcoholic drink.
+
+Yeah, I'll take another shot — hit me again!
+
+[大爆炸片段](https://www.ixigua.com/7005514780731507236?logTag=aba56f6ad1f77306e7de)
+
+
 ## inevitable
 
 [ɪnˈevɪtəbl]
@@ -47,6 +60,22 @@ n.
 
 n.
 灯杆，路灯柱
+
+
+## limb
+
+[lɪm]
+
+out on a limb: 
+in or into a dangerous or uncompromising position, 
+where one is not joined or supported by anyone else; 
+vulnerable.
+
+All the other countries signed the agreement, leaving Britain out on a limb.
+
+Hey, come on, give me a break. I'm out on a limb here.
+
+[老友记片段](https://www.ixigua.com/7006282798499627550?logTag=075016081d3228c3b113)
 
 
 ## literacy

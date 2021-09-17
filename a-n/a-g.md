@@ -1,5 +1,43 @@
 # A-G
 
+
+## anticlimactic
+
+[ˌæntɪklaɪ'mæktɪk]
+
+adj.
+突降法的，渐减的; 虎头蛇尾的
+
+Just ... feels a little anticlimactic.
+
+[大爆炸片段](https://www.ixigua.com/7005167121772741133?logTag=78d64e5fdf72a8be6569)
+
+
+## ambush
+
+[ˈæmbʊʃ]
+
+n.
+埋伏; 伏击; 伏击者，伏兵; 伏击点
+
+vt.
+伏击
+
+Quick! Someone's ambushed our Guardians.
+
+
+## ample
+
+[ˈæmpl]
+
+adj.
+大量的; 充裕的; （身材）丰满的
+
+There is ample parking. 停车位挺足
+
+[大爆炸片段](https://www.ixigua.com/7005167121772741133?logTag=78d64e5fdf72a8be6569)
+
+
 ## apron
 
 [ˈeɪprən]
@@ -35,6 +73,18 @@ adj.
 正宗的; 真正的; 真诚的; 逼真的; 可靠的
 
 would you say this is pretty authentic 非常正宗
+
+
+## awkward
+
+[ˈɔːkwərd]
+
+adj.
+使人尴尬的; 棘手的; 难使用的; 不方便的; 危险的; 难携带的; 笨拙的; 别扭的; 害羞的; 不可理喻的; 难相处的
+
+That was awkward, right?
+
+[大爆炸片段](https://www.ixigua.com/7005047812476011016?logTag=8b7260b61a68e11a9095)
 
 
 ## barrel in(to)
@@ -188,6 +238,14 @@ adj.
 ferocious lion
 
 
+## forklift
+
+['fɔkˌlɪft]
+
+n.
+<美>铲车; 叉车
+
+
 ## fowl
 
 [faʊl]
@@ -201,6 +259,15 @@ Carve the fowl into 8 pieces.
 ## funny business
 
 恶作剧
+
+
+## get to the bottom of
+
+[ɡɛt tu ði ˈbɑtəm ʌv]
+
+弄清…底细; 根究
+
+The city wants to get to the bottom of why the fix was doing more harm than good.
 
 
 ## gullible

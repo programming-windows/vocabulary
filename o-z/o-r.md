@@ -1,5 +1,18 @@
 # O-R
 
+
+## obscene
+
+[əbˈsiːn]
+
+adj.
+淫秽的; 下流的; 猥亵的; 大得惊人的
+
+obscene photographs
+
+He earns an obscene amount of money. 他捞了一大笔钱。
+
+
 ## perpendicular
 
 [ˌpɜrpənˈdɪkjələ(r)]
@@ -29,6 +42,50 @@ n.
 恐惧; 厌恶
 
 
+## pivot
+
+[ˈpɪvət]
+
+n.
+枢轴; 中心点，中枢; [物]支点，支枢; [体]回转运动
+
+vi.
+在枢轴上转动; 随…转移
+
+vt.
+把…放在枢轴上; 以…为核心; 使绕枢轴旋转; 由…而定
+
+[老友记片段](https://www.ixigua.com/7007372303625355790?logTag=c3b791925bb717956b12)
+
+
+## ply
+
+[plaɪ]
+
+vt.& vi.
+使用（工具）; 经常供应（食物、饮料）; 固定往来; 经营生意
+
+n.
+（毛线、绳等的）股; 层; 厚; （夹板的）层片
+
+vt.
+（娴熟地）使用
+
+a sweater in four-ply yarn 四股毛线织成的毛衣
+
+four-ply toilet paper 四层的厕纸
+
+
+## portal
+
+[ˈpɔrtl]
+
+n.
+入口; 桥门; [解剖学]肝门; 出孔
+
+The portal will get me right to the battlefield!
+
+
 ## prenup
 
 ['prinʌp]
@@ -52,6 +109,24 @@ n.
 放下; 付定金; 镇压; **贬低，奚落的话**
 
 Why do you constantly feel the need to put down my husband?
+
+
+## putz
+
+[pʌts]
+
+n.
+<美><非正>笨蛋，傻瓜； 阴茎
+
+v.
+闲荡；游手好闲
+
+1. (Yiddish) a fool; an idiot
+2. obscene terms for penis
+
+You are a putz
+
+[大爆炸片段](https://www.ixigua.com/7004795980377915912?logTag=74a7e00cbb1875edfac5)
 
 
 ## quarantine
