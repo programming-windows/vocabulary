@@ -1,4 +1,11 @@
-# A-G
+# A-C
+
+
+## a glass half-full
+
+You're such a glass half-full kind of guy. 你真是个乐观的人啊。
+
+反义：a glass half-empty
 
 
 ## anticlimactic
@@ -87,6 +94,18 @@ That was awkward, right?
 [大爆炸片段](https://www.ixigua.com/7005047812476011016?logTag=8b7260b61a68e11a9095)
 
 
+## banging body
+
+['bænɡɪŋ]
+
+n.
+凹凸有致的身材
+
+I mean, look at you. Your body is bangin'!
+
+[大爆炸片段](https://www.ixigua.com/7010030799319892493?logTag=42cefcf7d520de4eca3a)
+
+
 ## barrel in(to)
 
 [ˈbærəl]
@@ -125,6 +144,17 @@ n.
 胸部，乳房; 衣服的胸襟; 家庭般的温暖; 胸怀
 
 
+## bow out
+
+[bo aʊt]
+
+躬身送（某人）出门; 放弃做（某事）; 退出
+
+If it was me, and this is just me, I would bow out.
+
+[老友记片段](https://www.ixigua.com/7009618240964035086?logTag=c1436caf0bc17362ab11)
+
+
 ## brain juice
 
 The knowlage found in someones mind that may be exercised of them like juice from an orange.
@@ -140,6 +170,35 @@ n.
 （来自攻击一方的）主要力量; 撞击，进攻; 冲击
 
 bear the brunt
+
+
+## canvas
+
+[ˈkænvəs]
+
+n.
+帆布; 油画（布）
+
+a canvas bag
+
+Love is a canvas furnished by nature and embroidered by imagination.
+爱是一幅油画,背景是大自然,并为想像力所点缀.
+
+The show includes canvases by masters like Carpaccio, Canaletto and Guardi.
+画展上有卡尔帕乔、卡纳莱托和瓜尔迪等大师们的油画作品
+
+
+## carve
+
+[kɑːrv]
+
+v.
+雕刻; 切下（肉片） ; 开创（事业）; 铺（路）
+
+- Shall I carve? 可以开切了吗？
+- By all means. 当然可以
+
+[老友记片段](https://www.ixigua.com/7010279669651997198?logTag=9af11fc2315ba6367138)
 
 
 ## claustrophobia
@@ -165,123 +224,5 @@ Mary's gown exposes too much cleavage.
 [ˈkʌdli]
 
 cuddly dog 粘人的狗
-
-
-## detour
-
-[ˈdiːtʊr]
-
-v.
-绕路，绕道
-
-n.
-绕道; 弯路
-
-A PennDOT spokesperson says it's because of an embankment slide, 
-but that means that people who use that road everyday will have will 
-have to take a 20-mile detour.
-
-
-## down the drain
-
-化为乌有、落空、付之东流、前功尽弃、泡汤了、白费了、打了水漂
-
-All that work ... down the drain. 所有的努力都付之东流
-The case is going down the drain. 该案将前功尽弃了
-
-
-## emulsion
-
-[ɪˈmʌlʃən]
-
-n.
-乳状液; 感光乳剂; [药]乳剂; 乳胶漆
-
-
-## endangered
-
-[ɪnˈdeɪndʒərd]
-
-adj.
-（动物、鸟类等）濒危的，濒于灭绝的
-
-endangered animal
-
-
-## extinct
-
-[ɪkˈstɪŋkt]
-
-adj.
-灭绝的; 废除了的; （火山）死的
-
-an extinct species
-
-
-## feral
-
-[ˈfɪrəl, ˈfɛr-]
-
-adj.
-（动物）野生的，未驯的，野蛮的
-
-feral cats 野猫
-
-
-## ferocious
-
-[fəˈroʊʃəs]
-
-adj.
-残忍的; 极度的; 凶猛; 恶
-
-ferocious lion
-
-
-## forklift
-
-['fɔkˌlɪft]
-
-n.
-<美>铲车; 叉车
-
-
-## fowl
-
-[faʊl]
-
-n.
-鸡; 家禽
-
-Carve the fowl into 8 pieces.
-
-
-## funny business
-
-恶作剧
-
-
-## get to the bottom of
-
-[ɡɛt tu ði ˈbɑtəm ʌv]
-
-弄清…底细; 根究
-
-The city wants to get to the bottom of why the fix was doing more harm than good.
-
-
-## gullible
-
-[ˈɡʌləbəl]
-
-adj.
-易受骗的，轻信的
-
-Lenard, what did we say about being a gullible weenie?
-
-[生活大爆炸片段](https://www.ixigua.com/7003595609609339406?logTag=83d159592af775280843)
-
-
-
 
 

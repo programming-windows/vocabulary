@@ -42,6 +42,15 @@ n.
 恐惧; 厌恶
 
 
+## 'Phone it in' vs. 'Dial it in'
+
+体育比赛相关用词
+
+二者是一对反义词：前者意指敷衍了事, 后者指慢热并调整到最佳状态（例如发动机）
+
+<https://www.merriam-webster.com/words-at-play/phone-it-in-vs-dialed-in>
+
+
 ## pivot
 
 [ˈpɪvət]
@@ -149,6 +158,36 @@ She is at the hospital in quarantine. 她在医院被隔离
 rabid dog 疯狗
 
 
+## retreat
+
+[rɪˈtriːt]
+
+vi.
+撤退，后退; 撤销，作罢; （眼睛等）凹进; [航]向后倾斜
+
+n.
+撤回; 静居处; 引退期间; 静思，静修
+
+So, the guys and I are talking about 
+having kind of a science retreat this weekend. 这周末开一个科学静思会
+[大爆炸片段](https://www.ixigua.com/7009152166753796621?logTag=0c9ce2dccc468a6ab9c2)
+
+
+## ritual
+
+[ˈrɪtʃuəl]
+
+n.
+（宗教等的）仪式; 例行公事，老规矩; 典礼
+adj.
+作为仪式的一部分的; 礼节性的; 例行公事的
+
+She says to break the bad boyfriend cycle ...
+you can do like a cleansing ritual. 可以举行一个清理仪式
+
+[老友记片段](https://www.ixigua.com/7013968814865908255?logTag=00f884f06d1157495a25)
+
+
 ## roll down
 
 I really need some air. Alex, lower your window.
@@ -169,6 +208,20 @@ n.
 
 adj.
 迂回的
+
+
+## routine
+
+[ruːˈtiːn]
+
+n.
+惯例，常规; 例程; 生活乏味; 一套动作
+adj.
+常规的; 日常的; 平常的; 乏味的
+
+Sheldon, it's a routine procedure. 这只是常规手术
+
+[大爆炸片段](https://www.ixigua.com/7014522943363351071?logTag=8456af739ccedbeae82d)
 
 
 ## rug

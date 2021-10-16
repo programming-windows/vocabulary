@@ -1,5 +1,17 @@
 # S-Z
 
+## savvy
+
+[ˈsævi]
+
+n.
+机智; 头脑; 理解; 悟性
+adj.
+有见识的，懂实际知识的，通情达理的
+
+tech savvy 精通技术, 技术大拿
+
+
 ## silo
 
 [ˈsaɪloʊ]
@@ -25,6 +37,14 @@ vt.& vi.
 
 adj.
 似黏液的; 黏滑的; <贬>谄媚的; 虚伪的
+
+
+## slob
+
+[slɑb]
+
+n.
+<口>懒汉，粗俗汉，笨蛋
 
 
 ## smooth talker
@@ -124,6 +144,16 @@ n.
 乌龟; 行动迟缓的人（或物）
 
 
+## transcript
+
+[ˈtrænskrɪpt]
+
+n.
+抄本; 誊本; 打印本; 学生成绩报告单
+
+A transcript and audio of the segment are available online.
+
+
 ## traumatic
 
 [traʊˈmætɪk]
@@ -149,6 +179,22 @@ n.
 <非正>胃，肚子
 
 yummy in my tummy
+
+
+## twirl
+
+[twɜrl]
+
+vt.
+（使）快速转动; （使）快速旋转; 扭动; 卷曲
+n.
+旋转，转动; 万能钥匙; 捻弄; 旋转的东西
+vi.
+旋转，转动
+
+We want to see if they twirl their junk in the other direction.
+
+[大爆炸片段](https://www.ixigua.com/7010030799319892493?logTag=42cefcf7d520de4eca3a)
 
 
 ## urinate
@@ -183,7 +229,8 @@ n.
 ['waɪnɪ]
 
 adj.
-好发牢骚的，嘀咕不停的，烦躁的
+好发牢骚的，嘀咕不停的，烦躁的，
+喋喋不休
 
 habitually complaining
 
