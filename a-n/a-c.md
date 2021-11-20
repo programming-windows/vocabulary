@@ -8,16 +8,14 @@ You're such a glass half-full kind of guy. 你真是个乐观的人啊。
 反义：a glass half-empty
 
 
-## anticlimactic
+## alienate
 
-[ˌæntɪklaɪ'mæktɪk]
+[ˈeɪliəneɪt]
 
-adj.
-突降法的，渐减的; 虎头蛇尾的
+v.
+使疏远，离间; 使不友好
 
-Just ... feels a little anticlimactic.
-
-[大爆炸片段](https://www.ixigua.com/7005167121772741133?logTag=78d64e5fdf72a8be6569)
+It's the people's fault and the government's fault that alienated to China
 
 
 ## ambush
@@ -42,7 +40,25 @@ adj.
 
 There is ample parking. 停车位挺足
 
-[大爆炸片段](https://www.ixigua.com/7005167121772741133?logTag=78d64e5fdf72a8be6569)
+[大爆炸片段](https://www.ixigua.com/7005167121772741133)
+
+
+## anticlimactic
+
+[ˌæntɪklaɪ'mæktɪk]
+
+adj.
+突降法的，渐减的; 虎头蛇尾的
+
+Just ... feels a little anticlimactic.
+
+[大爆炸片段](https://www.ixigua.com/7005167121772741133)
+
+
+## apple of my eye
+
+In modern English, the phrase "apple of my eye" indicates something or someone that one 
+values above all others. 
 
 
 ## apron
@@ -91,7 +107,17 @@ adj.
 
 That was awkward, right?
 
-[大爆炸片段](https://www.ixigua.com/7005047812476011016?logTag=8b7260b61a68e11a9095)
+[大爆炸片段](https://www.ixigua.com/7005047812476011016)
+
+
+## baby fever
+
+Baby fever is the intense and sudden desire to have children, even if you’re single or know 
+that you’re not yet ready. Researcher Gary Brase says it best: “Baby fever is this idea out 
+in popular media that at some point in their lives, people get this sudden change in their 
+desire to have children. While it is often portrayed in women, we noticed it in men, too.”
+
+Yes! You want babies! You have baby fever!
 
 
 ## banging body
@@ -103,7 +129,7 @@ n.
 
 I mean, look at you. Your body is bangin'!
 
-[大爆炸片段](https://www.ixigua.com/7010030799319892493?logTag=42cefcf7d520de4eca3a)
+[大爆炸片段](https://www.ixigua.com/7010030799319892493)
 
 
 ## barrel in(to)
@@ -122,7 +148,7 @@ I mean, look at you. Your body is bangin'!
 
 [wgno.com](https://wgno.com/tracking-ida/breaking-hurricane-ida-now-a-category-4-storm/)
 
-[跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724?logTag=d5b2fa2f52900de18ae5)
+[跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724)
 
 
 ## boner / booboo
@@ -134,6 +160,11 @@ n.
 
 * It was quite the boner. 那真是蠢不可耐
 * Oh, gosh, golly, I made a boo-boo. 天啊，犯了个蠢错
+
+
+## shoes covers / booties covers / disposable boot and shoe covers
+
+![](pix/shoes_covers.jpeg)
 
 
 ## bosom
@@ -152,7 +183,7 @@ n.
 
 If it was me, and this is just me, I would bow out.
 
-[老友记片段](https://www.ixigua.com/7009618240964035086?logTag=c1436caf0bc17362ab11)
+[老友记片段](https://www.ixigua.com/7009618240964035086)
 
 
 ## brain juice
@@ -198,7 +229,30 @@ v.
 - Shall I carve? 可以开切了吗？
 - By all means. 当然可以
 
-[老友记片段](https://www.ixigua.com/7010279669651997198?logTag=9af11fc2315ba6367138)
+[老友记片段](https://www.ixigua.com/7010279669651997198)
+
+
+## cheap shot
+
+n.
+恶意中伤，恶意攻讦; 暗算
+
+That was a cheap shot. 这招很贱.
+
+
+## Chinese throwing stars
+
+![](pix/ninjia.jpg)
+
+
+## chubby
+
+[ˈtʃʌbi]
+
+adj.
+胖乎乎的，圆胖的，丰满的
+
+It's like the perfect kind of chubby 它(大熊猫)就像是那种完美的可爱丰满
 
 
 ## claustrophobia
@@ -219,10 +273,62 @@ n.
 Mary's gown exposes too much cleavage.
 
 
+## compulsory
+
+[kəmˈpʌlsəri]
+
+adj.
+强迫的; 义务的; 规定的
+
+
+## constipation
+
+[ˌkɑnstɪˈpeɪʃn]
+
+n.
+<医>便秘; 受限制
+
+Another thing I've got which I was quite surprised about
+was I got constipation
+
+
+## crotchless
+
+[krɑtʃ]
+
+开裆的；无裆的
+
+These jeans are too tight in the crotch. \
+The child was sitting on a crotch of a tree.\
+You can't make crotchless panties?
+
+
+## crucial
+
+[ˈkruːʃl]
+
+adj.
+至关重要的，关键性的
+
+For dynamic memory allocation, pointers are crucial.
+
+
 ## cuddly
 
 [ˈkʌdli]
 
 cuddly dog 粘人的狗
 
+
+## curb
+
+[kɜːrb]
+
+v.
+控制，抑制; 约束，限定\
+n.
+马路边；起控制（或限制）作用的事物\
+an edging (as of concrete) built along a street to form part of a gutter.
+
+![traffic curb](pix/curb.jpg)
 

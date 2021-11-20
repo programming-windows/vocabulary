@@ -13,6 +13,35 @@ obscene photographs
 He earns an obscene amount of money. 他捞了一大笔钱。
 
 
+## off-the-rack
+
+['ɔfðər'æk]
+
+(of clothes) ready-made rather than made to order.
+
+Do you even understand what "off-the-rack" means? 你到底知不知道“现成的”是啥意思?
+
+
+## pants
+
+![](pix/pants.jpg)
+
+
+## peep
+
+[piːp]
+
+v.
+窥视，偷看; （小鸟等）唧唧地叫; （从隐蔽处）出现\
+n.
+窥视; 唧唧声; 隐现; 慢慢露出
+
+I'm gonna do this my way 我要按我的方式去做
+and I don't wanna hear a peep out of you. 你不准唧唧歪歪
+
+[老友记片段](https://www.ixigua.com/7026273808315056676)
+
+
 ## perpendicular
 
 [ˌpɜrpənˈdɪkjələ(r)]
@@ -22,6 +51,22 @@ adj.
 
 n.
 垂直线，垂直面; 直立，直立姿势，廉直; 垂直测器，锤规; [建]垂直式建筑，绝壁
+
+
+## pervert
+
+[pərˈvɜːrt , ˈpɜːrvɜːrt]
+
+v.
+败坏，使走样，误导，误用; 腐蚀，侵害，使堕落\
+n.
+性变态者\
+a person whose sexual behavior is regarded as abnormal and unacceptable.
+
+Let's give our friend Joey a chance
+to explain why he's such a big pervert!
+
+[老友记片段](https://www.ixigua.com/7028434805066826270)
 
 
 ## pillar
@@ -40,6 +85,11 @@ Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
 
 n.
 恐惧; 厌恶
+
+
+## phone case
+
+手机壳套
 
 
 ## 'Phone it in' vs. 'Dial it in'
@@ -64,7 +114,7 @@ vi.
 vt.
 把…放在枢轴上; 以…为核心; 使绕枢轴旋转; 由…而定
 
-[老友记片段](https://www.ixigua.com/7007372303625355790?logTag=c3b791925bb717956b12)
+[老友记片段](https://www.ixigua.com/7007372303625355790)
 
 
 ## ply
@@ -85,6 +135,14 @@ a sweater in four-ply yarn 四股毛线织成的毛衣
 four-ply toilet paper 四层的厕纸
 
 
+## pomelo
+
+[ˈpɑːməloʊ] [pəˈmeloʊ]
+
+n.
+柚子
+
+
 ## portal
 
 [ˈpɔrtl]
@@ -101,6 +159,17 @@ The portal will get me right to the battlefield!
 
 n.
 <美><口>婚前协议
+
+
+## presumption
+
+[prɪˈzʌmpʃn]
+
+n.
+推测，设想; 放肆，傲慢; <律>推定
+
+I'll tell you exactly what you should do: 我来告诉你该怎样去做：\
+avoid the presumption of the Terran sensory input paradigm 避免对地球人感知模式先入为主的偏见
 
 
 ## puffer fish
@@ -135,7 +204,7 @@ v.
 
 You are a putz
 
-[大爆炸片段](https://www.ixigua.com/7004795980377915912?logTag=74a7e00cbb1875edfac5)
+[大爆炸片段](https://www.ixigua.com/7004795980377915912)
 
 
 ## quarantine
@@ -158,6 +227,32 @@ She is at the hospital in quarantine. 她在医院被隔离
 rabid dog 疯狗
 
 
+## recap
+
+[riˈkæp]
+
+n.
+胎面翻新的轮胎; 重述要点; <新闻>简明新闻\
+vt.
+翻新胎面；扼要重述
+
+Recap of Lectures 1-3
+
+
+## red zinger
+
+红花 茶（一种水果茶）
+
+![](pix/redzinger.jpg)
+
+
+## rehearsal
+
+[rɪˈhɜːrsl]
+
+Are you coming to the rehearsal with me? 你们要和我一起去彩排现场吗？
+
+
 ## retreat
 
 [rɪˈtriːt]
@@ -170,7 +265,7 @@ n.
 
 So, the guys and I are talking about 
 having kind of a science retreat this weekend. 这周末开一个科学静思会
-[大爆炸片段](https://www.ixigua.com/7009152166753796621?logTag=0c9ce2dccc468a6ab9c2)
+[大爆炸片段](https://www.ixigua.com/7009152166753796621)
 
 
 ## ritual
@@ -185,7 +280,7 @@ adj.
 She says to break the bad boyfriend cycle ...
 you can do like a cleansing ritual. 可以举行一个清理仪式
 
-[老友记片段](https://www.ixigua.com/7013968814865908255?logTag=00f884f06d1157495a25)
+[老友记片段](https://www.ixigua.com/7013968814865908255)
 
 
 ## roll down
@@ -199,6 +294,20 @@ The window on the green one is down 绿车窗未关
 Do not roll down the window 不要摇下/打开车窗
 
 Row the window down some more 把车窗再摇下一点
+
+
+## root
+
+[ruːt]
+
+*intransitive verb*
+
+1. to noisily applaud or encourage a contestant or team : CHEER
+2. to wish the success of or lend support to someone or something
+
+I was rooting for you. 我可是很看好你哦
+
+[大爆炸片段](https://www.ixigua.com/7023331782909133319)
 
 
 ## roundabout
@@ -221,7 +330,7 @@ adj.
 
 Sheldon, it's a routine procedure. 这只是常规手术
 
-[大爆炸片段](https://www.ixigua.com/7014522943363351071?logTag=8456af739ccedbeae82d)
+[大爆炸片段](https://www.ixigua.com/7014522943363351071)
 
 
 ## rug

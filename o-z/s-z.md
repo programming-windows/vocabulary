@@ -1,5 +1,29 @@
 # S-Z
 
+## sanitizer
+
+['sænɪtaɪzə]
+
+消毒杀菌剂
+
+hand sanitizer 洗手液
+
+
+## savory
+
+['seɪvərɪ]
+
+n.
+（烹调用的）香薄荷\
+adj.
+好吃的; 体面的
+
+She placed a huge dish before him of savory steaming meat. 她将一大盘热气腾腾、美味可口的肉放在他面前.
+
+It's not fresh but it's very 不是很新鲜，但是很\
+rich and savory like American style 厚油而丰富的美式风格
+
+
 ## savvy
 
 [ˈsævi]
@@ -31,6 +55,14 @@ vt.& vi.
 小口喝，呷; 从…中呷吸
 
 
+## slim to none
+
+almost none
+
+- "What are their chances of winning?" 
+- "Slim to none."
+
+
 ## slimy
 
 [ˈslaɪmi]
@@ -54,6 +86,13 @@ n.
 * sophisticated smooth talker —— 油嘴滑舌
 
 
+## sneak around
+
+偷偷摸摸, 鬼鬼祟祟
+
+I'm getting tired of sneaking around. 我不想再偷偷摸摸、鬼鬼祟祟了。
+
+
 ## snowbird
 
 热天北方，冬天南方的人
@@ -65,6 +104,14 @@ n.
 
 vt.
 浸泡，浸透; 吸入; 沉浸在（工作或学习中）; 湿透
+
+
+## squiggle
+
+[ˈskwɪɡəl]
+
+n.
+歪扭或波形短线，难认的笔迹
 
 
 ## squint
@@ -79,7 +126,7 @@ n.
 
 If I squint, I can pretend he's Alan Alda.
 
-[老友记片段](https://www.ixigua.com/7003653369168560676?logTag=c4718f62014eb8f4f1e8)
+[老友记片段](https://www.ixigua.com/7003653369168560676)
 
 
 ## staycation
@@ -120,6 +167,18 @@ What does the expression “be stretched thin” mean?
 vacation, but the workload doesn’t diminish.
 
 
+## surreal
+
+[səˈriəl]
+
+adj.
+超现实的，离奇的
+
+That was ... surreal. 听起来怪怪的
+
+[老友记片段](https://www.ixigua.com/7025893776438592013)
+
+
 ## swindle
 
 [ˈswɪndl]
@@ -133,7 +192,47 @@ n.
 You're a fraud, your profession is a **swindle**, 
 and, uh, your livelihood is dependent on the gullibility of stupid people.
 
-[大爆炸片段](https://www.ixigua.com/7004070526461149703?logTag=7822b2fa4afd4e0e524b)
+[大爆炸片段](https://www.ixigua.com/7004070526461149703)
+
+
+## Tag, you're it
+
+When little children are at school they play a game called "tig". Or "tag".
+
+One person is "it" and all the other children try to keep away from them.
+
+They will run around the field keeping away from the person who is "it" until finally the "it" person manages to touch one of them.
+
+When he does he will say "Tig! You're it!"
+
+And then the new "it" Will have to run around and try to touch one of the kids.
+
+Extra Rule - **No Tag Backs**\
+Sometimes the "it" will finally manage to "tag" a second kid after many exhausting minutes of chasing the whole class around, and that second kid will immediately tag them back and run away again.
+
+How frustrating.
+
+To stop this, the "no tag backs" rule was invented.
+
+I play with the original rules though. Tag backs are just fine. :)
+
+<https://hinative.com/en-US/questions/2815285>\
+[大爆炸片段](https://www.ixigua.com/7024854238245159438) **注意Lenard碰了Penny一下**然后说的此话
+
+
+## tape measure
+
+卷尺
+
+![](pix/tapeMeasure.jpg)
+
+Hey, umm, do you guys have that tape measure?
+
+
+## toilet seat protector sheet / toilet seat cover
+
+![](pix/seat_cover.jpg)
+![](pix/seat_covers.jpg)
 
 
 ## tortoise
@@ -194,7 +293,7 @@ vi.
 
 We want to see if they twirl their junk in the other direction.
 
-[大爆炸片段](https://www.ixigua.com/7010030799319892493?logTag=42cefcf7d520de4eca3a)
+[大爆炸片段](https://www.ixigua.com/7010030799319892493)
 
 
 ## urinate
@@ -214,6 +313,16 @@ I have to urinate
 毒蛇
 
 
+## vinegar
+
+[ˈvɪnɪɡər]
+
+n.
+醋
+
+Did they put vinegar inside? 放醋了吗？
+
+
 ## weenie
 
 [ˈwini]
@@ -222,6 +331,14 @@ n.
 [美国口语]]维也纳火腿肠; 给成功罩上阴影的东西; 蠢货[亦作 weeny, winie,wiener,ween]
 
 ![weenie](pix/weenie.jpg)
+
+
+## weirdo
+
+[ˈwɪrdoʊ]
+
+n.
+古怪的人，奇怪的人
 
 
 ## whiney

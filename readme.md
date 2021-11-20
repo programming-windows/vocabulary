@@ -13,7 +13,10 @@ USA prints,
 EU talks,
 India dreams!
 
-## [A-G](a-n/a-g.md)
+## [A-C](a-n/a-c.md)
+
+
+## [D-G](a-n/d-g.md)
 
 
 ## [H-N](a-n/h-n.md)
