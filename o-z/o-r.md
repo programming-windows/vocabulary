@@ -53,6 +53,19 @@ n.
 垂直线，垂直面; 直立，直立姿势，廉直; 垂直测器，锤规; [建]垂直式建筑，绝壁
 
 
+## pertinent
+
+[ˈpɜːrtnənt]
+
+*adj.*
+有关的，相干的; 恰当的，中肯的; 关于…的; 切题的
+
+a pertinent question/fact 有关的问题 / 事实
+
+Each name specified within the XAML page starting at the page root is added to a 
+pertinent XAML namescope.
+
+
 ## pervert
 
 [pərˈvɜːrt , ˈpɜːrvɜːrt]
@@ -172,6 +185,26 @@ I'll tell you exactly what you should do: 我来告诉你该怎样去做：\
 avoid the presumption of the Terran sensory input paradigm 避免对地球人感知模式先入为主的偏见
 
 
+## prowess
+
+[ˈpraʊəs]
+
+n.
+非凡的能力；英勇; 高超技艺
+
+academic/sporting/acting/physical prowess 学术体育运动造诣高、演技高超、体能优异
+
+
+## puberty
+
+[ˈpjuːbərti]
+
+Puberty is the time in life when a boy or girl becomes sexually mature. It is a process 
+that usually happens between ages 10 and 14 for girls and ages 12 and 16 for boys. It 
+causes physical changes, and affects boys and girls differently. The first sign of 
+puberty is usually breast development. Then hair grows in the pubic area and armpits.
+
+
 ## puffer fish
 
 ['pʌfər]
@@ -250,7 +283,22 @@ Recap of Lectures 1-3
 
 [rɪˈhɜːrsl]
 
-Are you coming to the rehearsal with me? 你们要和我一起去彩排现场吗？
+Are you coming to the rehearsal with me? 你们要和我一起去彩排现场吗？\
+Miss Waltham is at the rehearsal dinner. 华森小姐去排练婚礼餐会了。
+
+[老友记片段](https://www.ixigua.com/7033656022572991012
+
+
+## residence
+
+[ˈrezɪdəns]
+
+n.
+住处，住宅; 居住时间，居住; 公馆; 驻地
+
+The Waltham residence. 华森公馆
+
+[老友记片段](https://www.ixigua.com/7033656022572991012
 
 
 ## retreat

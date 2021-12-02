@@ -62,6 +62,13 @@ All that work ... down the drain. 所有的努力都付之东流
 The case is going down the drain. 该案将前功尽弃了
 
 
+## drunk with power
+
+沉溺于权力
+
+I'm totally drunk with power. 我被权力冲昏了头
+
+
 ## emulsion
 
 [ɪˈmʌlʃən]

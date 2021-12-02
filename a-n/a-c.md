@@ -8,6 +8,16 @@ You're such a glass half-full kind of guy. 你真是个乐观的人啊。
 反义：a glass half-empty
 
 
+## airborne
+
+[ˈerbɔːrn]
+
+*adj.*
+升空的，飞行中的; 空气传播的; 空降的; 在空气中的
+
+airborne disease 空气传播的病
+
+
 ## alienate
 
 [ˈeɪliəneɪt]
@@ -240,9 +250,26 @@ n.
 That was a cheap shot. 这招很贱.
 
 
+## chill out
+
+1. *slang* To become calmer; to calm down. This phrase is often used as an imperative.
+2. *slang* To relax.
+
+
 ## Chinese throwing stars
 
 ![](pix/ninjia.jpg)
+
+
+## chippy
+
+[ ˈtʃɪpi]
+
+*Slang* A woman prostitute.
+
+No, because he's in love with the British chippy! 不会，因为他爱那个英国贱货！
+
+[老友记片段](https://www.ixigua.com/7033656022572991012
 
 
 ## chubby
@@ -261,6 +288,17 @@ It's like the perfect kind of chubby 它(大熊猫)就像是那种完美的可�
 
 n.
 幽闭恐怖
+
+
+## clean slate
+
+A fresh start; another chance after wiping out old offenses or debts. 
+This idiom often appears as **wipe the slate clean**.
+
+An opportunity to start fresh despite past mistakes or problems.
+- I know we've had our differences, but I'd like to repair our friendship. Can we start 
+over with a clean slate?
+- I really appreciate you giving me a clean slate after I failed that first test.
 
 
 ## cleavage
@@ -311,6 +349,15 @@ adj.
 至关重要的，关键性的
 
 For dynamic memory allocation, pointers are crucial.
+
+
+## cubicle
+
+[ˈkjubɪkəl]
+
+*n.* 隔断
+
+Wow! It's huge! It's so much bigger than the cubicle. 哇！好大呀！比小隔断大多了。
 
 
 ## cuddly

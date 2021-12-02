@@ -11,6 +11,18 @@ vi.
 下冰雹; 如冰雹般地降下
 
 
+## handful
+
+[ˈhændfʊl]
+
+n.
+少数，少量; 一把（的量）; 难以控制的人（或动物）; 棘手事
+
+[参见 hairy](#hairy)
+
+Sounds like Sheldon was a handful. 听起来谢尔顿曾是个熊孩子
+
+
 ## hare
 
 [her]
@@ -19,6 +31,19 @@ n.
 野兔; 怪人，傻瓜
 vt.& vi.
 飞跑，疾走
+
+
+## hairy
+
+[ˈheri]
+
+adj.
+多毛的; 毛制的，仿毛的; [俚] 险象环生的，危险的
+
+[参见 handful](#handful)
+
+It was figuratively and literally 所以无论从实际或者比喻上来说
+one of the hairiest moments of my life. 那是我最“毛”孩子的一段时光
 
 
 ## head

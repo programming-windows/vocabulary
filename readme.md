@@ -25,5 +25,8 @@ India dreams!
 ## [O-R](o-z/o-r.md)
 
 
-## [S-Z](o-z/s-z.md)
+## [S](o-z/s.md)
+
+
+## [T-Z](o-z/t-z.md)
 
