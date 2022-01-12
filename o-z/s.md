@@ -1,5 +1,18 @@
 # S
 
+
+## saliva
+
+[səˈlaɪvə]
+
+n.
+唾液，口水; 津; 吐沫; 涎
+
+Wow, my whole mouth just filled with saliva.
+
+[老友记片段](https://www.ixigua.com/7051888411879473695)
+
+
 ## sanitizer
 
 ['sænɪtaɪzə]

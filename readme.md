@@ -1,6 +1,9 @@
 
 podcasts:
-* https://www.everythingisalive.com/
+* <https://www.everythingisalive.com/>
+
+- <https://bestlifeonline.com/shopping-mall-facts/>
+
 
 High performance people fly like eagles. Eagles fly alone.
 They have no mates.
@@ -13,7 +16,11 @@ USA prints,
 EU talks,
 India dreams!
 
-## [A-C](a-n/a-c.md)
+
+## [A-B](a-n/a-b.md)
+
+
+## [C](a-n/c.md)
 
 
 ## [D-G](a-n/d-g.md)

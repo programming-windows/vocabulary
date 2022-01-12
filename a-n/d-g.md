@@ -1,6 +1,20 @@
 # D-G
 
 
+## decent
+
+[ˈdiːsnt]
+
+adj.
+像样的; 得体的; 正派的
+
+- Assuming that you have a decent understanding of C#, getting started 
+in WPF isn't too difficult.
+- I need a decent night's sleep.
+\
+我需要好好地睡上一夜。
+
+
 ## detour
 
 [ˈdiːtʊr]
@@ -14,6 +28,48 @@ n.
 A PennDOT spokesperson says it's because of an embankment slide, 
 but that means that people who use that road everyday will 
 have to take a 20-mile detour.
+
+
+## dial it down or ramp it down
+
+<https://english.stackexchange.com/questions/502556/dial-it-down-or-ramp-it-down>
+
+What is the meaning of the last sentence? How do you relate it with previous 
+sentences? I should explain in advance that the writer is addressing a speaker 
+who is giving his or her lecture in front of the audience on the stage.
+
+> A good rule of thumb is to keep your facial expression consistent with your 
+> ideas. You can have big ideas - they're only listening to you, after all. 
+> You may feel the need to keep your face neutral, which is boring, in a conversation 
+> about your ideas, but don't forget, you're the only one up there. Represent your 
+> ideas. If they're big, be big. It's easier to dial it down than ramp it up.
+
+In the context of advice about whether to show animation while giving a speech, the sentence
+
+> - It's easier to dial it down than ramp it up.
+
+means that moving from extreme animation to less animation is easier to do than becoming 
+more animated after showing little animation at first. The meaning is conveyed by metaphor.
+
+*Dial down* and *ramp up* are phrasal verbs, which take pronoun objects between the verb and 
+its particle. The object -- *it* -- refers to the same thing in each case -- animation while 
+speaking -- and the opposition of up and down as particles for the phrasal verb shows that 
+they are opposites.
+
+They are also both metaphors, and not the same metaphor, which makes it confusing.
+
+*Dial* refers to a volume knob on an old radio or stereo (supplanted by icons to press on 
+newer equipment). Turning the knob, or dial, raised or lowered the sound volume. Dialing it 
+up raises the volume (this is an UP/DOWN metaphor), and dialing it down lowers it.
+
+A *ramp*, on the other hand, is a tilted surface for movement vertically. To *ramp up* 
+something is to increase its height, which may simply mean providing a larger number, as here.
+
+Consequently both *turn up* and *ramp up* have much the same meaning in this context, as do 
+*turn down* and *ramp down*. So why use two? Good question.
+
+Probably for variety. This is a motto that the listener is supposed to bear in mind, after 
+all, and the punchier it is, the more likely they are to remember it. Or so one can hope.
 
 
 ## dish
@@ -42,7 +98,10 @@ v.
 
 She ditched me and she's leaving me to finish off the vlog without her.\
 Did you ditch class today? 你今天逃课了？\
-He ditched his girlfriend.
+He ditched his girlfriend.\
+That doesn't give you the right to ditch me! 那不是放我鸽子的好理由
+
+[老友记片段](https://www.ixigua.com/7038462895612494367)
 
 
 ## doughy
@@ -164,6 +223,18 @@ adj.
 ferocious lion
 
 
+## fill silence
+
+尬聊；没话找话
+
+- You don't need to fill these silence. 你不必没话找话
+- Okay, thanks.
+
+**泛读材料：**
+- [Why do we need to fill the silence? Can we do anything about it?](https://www.linkedin.com/pulse/why-do-we-need-fill-silence-can-anything-andrew-sharp)
+- [How to Fill Awkward Silences](https://www.wikihow.com/Fill-Awkward-Silences)
+
+
 ## finger licking
 
 吮指
@@ -176,6 +247,33 @@ Heads, she's Rachel's. 正面，归瑞秋。\
 Tails, she's Monica's. 反面，归莫妮卡。
 
 [老友记片段](https://www.ixigua.com/7025544939777819166)
+
+
+## flock
+
+[flɑːk]
+
+n.
+兽群，鸟群; 一大群人; 教徒; 软棉填料
+
+![snow buntings flock](pix/flock-snowbuntingsWallpaper.jpg)
+
+<center>
+Snow buntings flock during a snow storm in New York
+</center>
+
+
+## fool around
+
+[fuːl əˈraʊnd]
+
+闲耍; 虚度光阴; （和某人）乱搞（男女关系）; 鬼混
+
+- Would you ever fool around.
+你还会四处游荡吗?
+- I fooled around with Joey's sister. 我睡了乔伊的妹妹
+
+[老友记片段](https://www.ixigua.com/7039209797006459405)
 
 
 ## forklift
@@ -249,6 +347,30 @@ Oh no, don't give away the farm! 别, 料都爆完了!\
 And try not to be total pussies and give away the whole farm. 别太懵逼了以至倾家荡产一无所有
 
 [老友记片段](https://www.ixigua.com/7029904919331570206)
+
+
+## go-kart / go-cart
+
+卡丁车
+
+
+## godspeed
+
+(对启程的人的祝愿语)成功；一路顺风
+
+- Not farewell or Godspeed, but "Go slowly." 不说再见,不说祝你平安, 而说 “ 慢走 ”.
+
+
+## graham
+
+['greɪəm]
+
+Graham flour is a form of whole wheat flour. It is named after it's inventor Sylvester 
+Graham, a forerunner of the health food movement. Graham developed this form of flour in 
+the 1830s in hopes of diverting people away from the less healthy refined white flour.
+
+adj.
+全麦（面粉）的，粗面粉的
 
 
 ## greasy

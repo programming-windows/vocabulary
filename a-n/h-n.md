@@ -99,11 +99,13 @@ n.
 vt.& vi.
 换来换去，不断更换
 
-Oh, I, uh, I hopped a fence, 我...我翻过了围栏,\
+- I can hop. 我自己跳好了。
+- Oh, I, uh, I hopped a fence, 我...我翻过了围栏,\
 and they caught me in the sculpture gallery 结果他们在雕像馆抓到了我时\
 making out with a Chewbacca statue. 我正在和一个 Chewbacca 雕像亲热
 
 [大爆炸片段](https://www.ixigua.com/7029951820483002887)
+[老友记片段](https://www.ixigua.com/7037702537331507748)
 
 
 ## hop-on hop-off sightseeing tourist bus
@@ -220,6 +222,24 @@ n.
 Then I choose a janitor. 'Cause I'm about to throw up.
 
 [大爆炸片段](https://www.ixigua.com/7024854238245159438)
+
+
+## kiosk
+
+[ˈkiːɑːsk]
+
+n.
+亭子，凉亭; （车站、广场等处的）书报摊，，公共电话亭; 小摊棚，售货亭
+
+![kiosk.jpg](pix/kiosk.jpg)
+
+
+## knob
+
+[nɑːb]
+
+*n.*
+球形把手; （收音机等的）旋钮; 小块; 疙瘩
 
 
 ## lamppost

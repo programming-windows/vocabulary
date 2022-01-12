@@ -1,4 +1,4 @@
-# A-C
+# A-B
 
 
 ## a glass half-full
@@ -6,6 +6,19 @@
 You're such a glass half-full kind of guy. 你真是个乐观的人啊。
 
 反义：a glass half-empty
+
+
+## address
+
+This is addressed to Mrs. Braverman downstairs! 收件人是楼下的布雷曼太太
+
+
+## adultery
+
+ \ ə-ˈdəl-t(ə-)rē \
+
+voluntary sexual intercourse between a married person and someone other than that 
+person's current spouse or partner
 
 
 ## airborne
@@ -84,6 +97,18 @@ Oh, you're losin'your apron here, let me get it.
 * Hey.
 * Tie my apron, will you? 
 * My pleasure.
+
+
+## arcade
+
+[ɑrˈkeɪd]
+
+n.
+游戏机。商场，游乐中心; 拱廊，连拱廊; 有拱廊的街道
+
+![Adult-arcade-opens-in-Flint.png](pix/Adult-arcade-opens-in-Flint.png)
+
+- Spending hours at the arcade
 
 
 ## aroma
@@ -213,169 +238,20 @@ n.
 bear the brunt
 
 
-## canvas
+## buttery
 
-[ˈkænvəs]
+[ˈbʌtəri]
 
-n.
-帆布; 油画（布）
+ADJECTIVE
 
-a canvas bag
+containing or tasting like butter.
+- "layers of flaky buttery pastry"
+- synonyms:
+    - creamy · fatty · heavy · full-flavored
 
-Love is a canvas furnished by nature and embroidered by imagination.
-爱是一幅油画,背景是大自然,并为想像力所点缀.
+covered with butter.
+- "buttery fingers"
+- synonyms:
+    - greasy · fatty · swimming in oil/fat · oleaginous
 
-The show includes canvases by masters like Carpaccio, Canaletto and Guardi.
-画展上有卡尔帕乔、卡纳莱托和瓜尔迪等大师们的油画作品
-
-
-## carve
-
-[kɑːrv]
-
-v.
-雕刻; 切下（肉片） ; 开创（事业）; 铺（路）
-
-- Shall I carve? 可以开切了吗？
-- By all means. 当然可以
-
-[老友记片段](https://www.ixigua.com/7010279669651997198)
-
-
-## cheap shot
-
-n.
-恶意中伤，恶意攻讦; 暗算
-
-That was a cheap shot. 这招很贱.
-
-
-## chill out
-
-1. *slang* To become calmer; to calm down. This phrase is often used as an imperative.
-2. *slang* To relax.
-
-
-## Chinese throwing stars
-
-![](pix/ninjia.jpg)
-
-
-## chippy
-
-[ ˈtʃɪpi]
-
-*Slang* A woman prostitute.
-
-No, because he's in love with the British chippy! 不会，因为他爱那个英国贱货！
-
-[老友记片段](https://www.ixigua.com/7033656022572991012
-
-
-## chubby
-
-[ˈtʃʌbi]
-
-adj.
-胖乎乎的，圆胖的，丰满的
-
-It's like the perfect kind of chubby 它(大熊猫)就像是那种完美的可爱丰满
-
-
-## claustrophobia
-
-[ˌklɔstrəˈfoʊbiə]
-
-n.
-幽闭恐怖
-
-
-## clean slate
-
-A fresh start; another chance after wiping out old offenses or debts. 
-This idiom often appears as **wipe the slate clean**.
-
-An opportunity to start fresh despite past mistakes or problems.
-- I know we've had our differences, but I'd like to repair our friendship. Can we start 
-over with a clean slate?
-- I really appreciate you giving me a clean slate after I failed that first test.
-
-
-## cleavage
-
-[ˈklivɪdʒ]
-
-n.
-分裂; [胚] 卵裂; 乳沟
-
-Mary's gown exposes too much cleavage.
-
-
-## compulsory
-
-[kəmˈpʌlsəri]
-
-adj.
-强迫的; 义务的; 规定的
-
-
-## constipation
-
-[ˌkɑnstɪˈpeɪʃn]
-
-n.
-<医>便秘; 受限制
-
-Another thing I've got which I was quite surprised about
-was I got constipation
-
-
-## crotchless
-
-[krɑtʃ]
-
-开裆的；无裆的
-
-These jeans are too tight in the crotch. \
-The child was sitting on a crotch of a tree.\
-You can't make crotchless panties?
-
-
-## crucial
-
-[ˈkruːʃl]
-
-adj.
-至关重要的，关键性的
-
-For dynamic memory allocation, pointers are crucial.
-
-
-## cubicle
-
-[ˈkjubɪkəl]
-
-*n.* 隔断
-
-Wow! It's huge! It's so much bigger than the cubicle. 哇！好大呀！比小隔断大多了。
-
-
-## cuddly
-
-[ˈkʌdli]
-
-cuddly dog 粘人的狗
-
-
-## curb
-
-[kɜːrb]
-
-v.
-控制，抑制; 约束，限定\
-n.
-马路边；起控制（或限制）作用的事物\
-an edging (as of concrete) built along a street to form part of a gutter.
-
-![traffic curb](pix/curb.jpg)
-
+[老友记片段](https://www.ixigua.com/7051888411879473695)

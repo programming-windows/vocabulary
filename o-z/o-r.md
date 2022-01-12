@@ -82,16 +82,6 @@ to explain why he's such a big pervert!
 [老友记片段](https://www.ixigua.com/7028434805066826270)
 
 
-## pillar
-
-[ˈpɪlər]
-
-n.
-柱，台柱，顶梁柱; 墩，柱脚; （组织、制度、信仰等的）核心
-
-Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
-
-
 ## phobia
 
 [ˈfoʊbiə]
@@ -114,6 +104,35 @@ n.
 <https://www.merriam-webster.com/words-at-play/phone-it-in-vs-dialed-in>
 
 
+## pill caddie
+
+![](pix/pill_caddie.jpg)
+![](pix/pill_caddie2.jpg)
+
+I still don't understand why you bought that pill caddie. 我还是不明白你为啥会买那个药盒
+
+[大爆炸片段](https://www.ixigua.com/7041107165242720798)
+
+
+## pill organizer
+
+![](pix/pill_organizer.jpg)
+
+
+Pill Organizer, Tablet Storage Caddy, Drug Suitcases Dispensers with 6 compartments 
+Hold Cod Liver Oil/Tablets/ Capsule, Nude (Pink White&Blue),Random
+
+
+## pillar
+
+[ˈpɪlər]
+
+n.
+柱，台柱，顶梁柱; 墩，柱脚; （组织、制度、信仰等的）核心
+
+Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
+
+
 ## pivot
 
 [ˈpɪvət]
@@ -128,6 +147,20 @@ vt.
 把…放在枢轴上; 以…为核心; 使绕枢轴旋转; 由…而定
 
 [老友记片段](https://www.ixigua.com/7007372303625355790)
+
+
+## place
+
+*n.*
+名次; （数学）位\
+*v.*
+排名次
+
+- He has risen to second place in the opinion polls.\
+他在民意测验中已升至第二位。
+- Did you win for miss South Dakota?
+- No, I didn't even place.\
+没有，我连名次都没有。
 
 
 ## ply
@@ -314,6 +347,14 @@ n.
 So, the guys and I are talking about 
 having kind of a science retreat this weekend. 这周末开一个科学静思会
 [大爆炸片段](https://www.ixigua.com/7009152166753796621)
+
+
+## rink / ice rink
+
+[rɪŋk]
+
+n.
+溜冰场; 冰球场; （草地）木球场
 
 
 ## ritual

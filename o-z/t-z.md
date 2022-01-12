@@ -40,6 +40,22 @@ Hey, umm, do you guys have that tape measure?
 ![](pix/seat_covers.jpg)
 
 
+## top-shelf
+
+\ ˈtäp-ˈshelf \
+
+1. : of the best quality \
+    // top-shelf products \
+    // Reading does have one top-shelf tourist attraction, a gorgeous pagoda that sits atop a mountain.\
+    — Joe Queenan
+2. [from the placement of sexually explicit magazines for sale on high shelves out of the reach 
+    of children] British : containing pornographic material \
+    // top-shelf magazines
+    // This year, retailers are going to come under increased pressure to clean up their acts. 
+    Of course, they're not obliged to sell top-shelf mags. \
+    — The Grocer
+
+
 ## tortoise
 
 [ˈtɔːrtəs]
@@ -190,6 +206,19 @@ n.
 假发，法官帽; 〈美俚〉知识分子
 
 He disguised himself with a wig and false beard.
+
+
+## workshop
+
+[ˈwɜːrkʃɑːp]
+
+n.
+工坊。车间; 研讨会
+
+- mahjong workshop 麻将工坊
+- jianbing workshop 煎饼工坊
+- carpentry workshop 木匠工坊
+- kids workshop
 
 
 
