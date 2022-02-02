@@ -56,7 +56,38 @@ verb. to go in a particular direction
 * I was heading out of the room when she called me back.
 * We were heading towards Kumasi when our truck broke down.
 * He headed straight for (= went towards) the fridge.
-* I think we ought to head back/home (= return to where we started) now, before it gets too dark.
+* I think we ought to head back/home (= return to where we started) now, 
+before it gets too dark.
+* Doesn't matter. He's headed for the kitchen anyway. 无所谓，反正他往厨房方向去了。
+
+[大爆炸片段](https://www.ixigua.com/7053757808293970462)
+
+
+## heads
+
+*adj.*
+正面朝上的 \
+*n.*
+(抛硬币时的)正面(反面是tails)；上端( head的名词复数 ); 头脑; 头部; （持续的）头痛 \
+*v.*
+用头顶（球）( head的第三人称单数 ); 带领; 使朝…方向行进; 位于排行之首
+
+- It's heads. 是正面
+
+[老友记片段](https://www.ixigua.com/7054528337271915015)
+
+
+## hibernation
+
+[ˌhaɪbərˈneɪʃən]
+
+*n.*
+过冬，冬眠
+
+He's finished his rotations for the year and 
+is now back at home, 
+the bees are about to enter hibernation 蜜蜂准备过冬了 \
+and then he'll be out travelling all over the country again when the spring comes.
 
 
 ## hint
@@ -224,6 +255,21 @@ Then I choose a janitor. 'Cause I'm about to throw up.
 [大爆炸片段](https://www.ixigua.com/7024854238245159438)
 
 
+## jaywalk
+
+*v.*
+乱穿马路
+
+
+## jeepers creepers
+
+我的个天
+
+Please refer to:
+- [大爆炸片段](https://www.ixigua.com/7056301385033187847)
+- [minced oaths](#minced-oaths)
+
+
 ## kiosk
 
 [ˈkiːɑːsk]
@@ -287,6 +333,14 @@ When it comes to cooking, I'm not in her league (= she is much better than me). 
 - Her French is improving by leaps and bounds.
 
 
+## lightning round
+
+The lightning round! 
+抢答环节
+
+[老友记片段](https://www.ixigua.com/7054528337271915015)
+
+
 ## limb
 
 [lɪm]
@@ -342,6 +396,34 @@ This is malarkey! 这是屁话
 [大爆炸片段](https://www.ixigua.com/7004070526461149703)
 
 
+## mommy-to-be
+
+准妈咪
+
+
+## maniac
+
+[ ˈmeɪniæk]
+
+*n.*
+疯子; 癖好者; 狂人; 躁狂者 \
+*adj.*
+发狂的; 狂热的; 疯狂的
+
+What kind of maniacs have coitus in someone else's bedroom?! 
+什么样的疯子会在别人的房间里交媾
+
+[大爆炸片段](https://www.ixigua.com/7053789245713941023)
+
+
+## meddle
+
+*v.*
+干涉，插手; 弄，摸弄，用手玩弄; 参与，发生关系
+
+You meddled in our relationship! 你插手了我们的关系
+
+
 ## mince pie
 
 [mɪns]
@@ -355,6 +437,14 @@ n.
 
 ![British Mince Pie](pix/mincepie.jpg) \
 mincemeat pie
+
+
+## minced oaths
+
+heck instead of hell,  shoot for shit, golly and gosh for God, jeepers creepers for Jesus Christ
+
+- [def jeepers creepers](https://www.dictionary.com/e/slang/jeepers-creepers/)
+- [jeepers creepers](#jeepers-creepers)
 
 
 ## noise cancelling headphones

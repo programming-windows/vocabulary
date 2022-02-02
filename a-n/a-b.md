@@ -8,6 +8,17 @@ You're such a glass half-full kind of guy. 你真是个乐观的人啊。
 反义：a glass half-empty
 
 
+## abdomen
+
+[ˈæbdəmən]
+
+*n.*
+腹部; [虫]腹部; 下腹; 腹腔
+
+- He was suffering from pains in his abdomen. 他感到腹部剧痛。
+- Definition of **baby bump**: the enlarged abdomen of a pregnant woman
+
+
 ## address
 
 This is addressed to Mrs. Braverman downstairs! 收件人是楼下的布雷曼太太
@@ -145,6 +156,15 @@ That was awkward, right?
 [大爆炸片段](https://www.ixigua.com/7005047812476011016)
 
 
+## baby bump
+
+Definition of baby bump
+: the enlarged abdomen of a pregnant woman
+
+- Jennifer Lawrence debuted her baby bump on the red carpet Sunday night 
+(December 5) at the New York City premiere of her movie Don't Look Up.
+![baby bump](pix/baby-bump.jpg)
+
 ## baby fever
 
 Baby fever is the intense and sudden desire to have children, even if you’re single or know 
@@ -181,9 +201,25 @@ I mean, look at you. Your body is bangin'!
     * There's a dent in the garage door from when my son barreled into it with his bike.
     * I rounded the corner and nearly barreled into Tara.
 
-[wgno.com](https://wgno.com/tracking-ida/breaking-hurricane-ida-now-a-category-4-storm/)
+参见：
+- [wgno.com](https://wgno.com/tracking-ida/breaking-hurricane-ida-now-a-category-4-storm/)
+- [跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724)
 
-[跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724)
+
+## bachelor pad
+
+a typical apartment of an unmarried man\
+单身公寓
+
+
+## be cool
+
+- Be cool. Everything will be all right. 冷静一点, 一切都会没问题的.
+- Oh , be cool about it . It is just a mirage. 不要那么激动, 只不过是海市蜃楼而已.
+- Be cool, be cool, be cool. （装成啥都没发生的样子）
+
+参见：
+- [大爆炸片段](https://www.ixigua.com/7055609424315941413)
 
 
 ## boner / booboo
@@ -221,11 +257,32 @@ If it was me, and this is just me, I would bow out.
 [老友记片段](https://www.ixigua.com/7009618240964035086)
 
 
+## brag
+
+[bræɡ]
+
+*v.*
+吹嘘，夸耀
+
+Actually, what you're doing is pretending to complain, 其实你是假抱怨\
+but really trying to brag. 真显摆。
+
+
 ## brain juice
 
 The knowlage found in someones mind that may be exercised of them like juice from an orange.
 
 （类似）心灵鸡汤(Chicken Soup for the Soul, Boost Your Brain Power!)
+
+
+## broil
+
+烤
+
+- I need that broiling pan that Joey borrowed the other day.
+我来要回乔伊上次借的烤盘
+
+[老友记片段](https://www.ixigua.com/7059729127900709407)
 
 
 ## brunt

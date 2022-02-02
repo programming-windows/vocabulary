@@ -67,6 +67,24 @@ n.
 vt.& vi.
 小口喝，呷; 从…中呷吸
 
+I'll just take one last sip. 那我喝最后一口。
+
+[大爆炸片段](https://www.ixigua.com/7053757808293970462)
+
+
+## skinny
+
+[ˈskɪni]
+
+*adj.*
+极瘦的，皮包骨的; 紧身的; 小气的; 皮的，皮质的\
+*n.*
+（不公开的）信息；内幕消息
+
+Easy for you to say, skinny bitch. 说起来倒容易，你个瘦皮猴
+
+[大爆炸片段](https://www.ixigua.com/7053424288761643551)
+
 
 ## slate board
 

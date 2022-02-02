@@ -25,6 +25,20 @@ I play with the original rules though. Tag backs are just fine. :)
 [大爆炸片段](https://www.ixigua.com/7024854238245159438) **注意Lenard碰了Penny一下**然后说的此话
 
 
+## tails
+
+*n.*
+(抛硬币时)硬币的背面（正面是 heads）; \
+（非正式）燕尾服; 男子夜礼服; \
+ 尾( tail的名词复数 ); 尾部; 燕尾服; 尾随者
+
+- Somebody call it this time. 拜托谁猜一下（正反面）。
+- Tails! 反面
+- It's heads. 是正面
+
+[老友记片段](https://www.ixigua.com/7054528337271915015)
+
+
 ## tape measure
 
 卷尺
@@ -32,6 +46,23 @@ I play with the original rules though. Tag backs are just fine. :)
 ![](pix/tapeMeasure.jpg)
 
 Hey, umm, do you guys have that tape measure?
+
+
+## terabyte
+
+[ˈtɛrəˌbaɪt]
+
+- Did the guy make sure 那伙计有没有\
+that this has a one-terabyte solid-state drive? 确保这台是有 1TB 固态硬盘的呢
+
+[大爆炸片段](https://www.ixigua.com/7056301385033187847)
+
+
+## thunderbolt port
+
+雷电接口
+
+[大爆炸片段](https://www.ixigua.com/7056301385033187847)
 
 
 ## toilet seat protector sheet / toilet seat cover
@@ -134,6 +165,38 @@ I have to urinate
 毒蛇
 
 
+## veteran
+
+ˈvetərən]
+
+*n.*
+经验丰富的人，老兵; 退伍军人
+
+The veteran teacher accumulated rich teaching experiences.
+\
+那位老教师积累了丰富的教学经验.
+
+
+## veterinarian / vet
+
+[ˌvetərɪˈneriən]
+
+n.
+<正>兽医
+
+
+## viable
+
+[ˈvaɪəbl]
+
+*adj.*
+capable of working successfully; feasible.
+
+- If this is a viable thing, we could get a patent. 如果真可行
+
+[大爆炸片段](https://www.ixigua.com/7053757808293970462)
+
+
 ## vinegar
 
 [ˈvɪnɪɡər]
@@ -152,6 +215,13 @@ Did they put vinegar inside? 放醋了吗？
 
 That movie was really wack.\
 It's wack, the worst ever. 太垃圾了，史上最烂。
+
+
+## wasted
+
+喝醉了，喝高了
+
+He's so wasted. 他真喝高了。
 
 
 ## weenie

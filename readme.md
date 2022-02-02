@@ -29,7 +29,10 @@ India dreams!
 ## [H-N](a-n/h-n.md)
 
 
-## [O-R](o-z/o-r.md)
+## [O-R](o-z/o-q.md)
+
+
+## [R](o-z/r.md)
 
 
 ## [S](o-z/s.md)

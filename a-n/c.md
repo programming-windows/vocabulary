@@ -54,6 +54,16 @@ v.
 [老友记片段](https://www.ixigua.com/7010279669651997198)
 
 
+## cesspool
+
+[ˈsɛsˌpul]
+
+*n.*
+污水坑，化粪池，污秽场所
+
+TikTok is just a cesspool. TikTok 是个大粪坑
+
+
 ## cheap shot
 
 n.
@@ -135,12 +145,52 @@ n.
 Mary's gown exposes too much cleavage.
 
 
+## clog
+
+[klɑːɡ]
+
+*n.*
+木屐\
+*v.*
+阻塞，堵塞
+
+- The timing's perfect! I just clogged the toilet! 时机正好！我刚刚把马桶给弄堵住了！
+
+**参见:**
+- [老友记片段](https://www.ixigua.com/7055277214488592932)
+
+
+## commission
+
+[kəˈmɪʃn]
+
+*v.*
+正式委托; 任命…为军官\
+*n.*
+委员会; 佣金，手续费; 正式委托; 犯（罪）
+
+- a commission on human rights 人权委员会
+- Pheebs, you gotta stop doing this. I'm working on commission here! 我这里靠赚佣金的!
+
+[老友记片段](https://www.ixigua.com/7052252807319486983)
+
+
 ## compulsory
 
 [kəmˈpʌlsəri]
 
 adj.
 强迫的; 义务的; 规定的
+
+
+## confidential
+
+[ˌkɑːnfɪˈdenʃl]
+
+*adj.*
+机密的，保密的; 悄悄的
+
+No, it was marked "Confidential". 没有看，上面标着“机密”。
 
 
 ## conglomerate
@@ -164,6 +214,17 @@ n.
 
 Another thing I've got which I was quite surprised about
 was I got constipation
+
+
+## courtyard
+
+[ˈkɔːrtjɑːrd]
+
+*n.*
+庭院; 天井
+
+This luxurious home with a big courtyard 这个奢侈的四合院 \
+has now been turned into a series of art classrooms and studios. 现在已变成课堂和工作室
 
 
 ## crack the top ...
@@ -256,4 +317,14 @@ n.
 an edging (as of concrete) built along a street to form part of a gutter.
 
 ![traffic curb](pix/curb.jpg)
+
+
+## cut out
+
+- (of a motor or device) suddenly stop operating.
+  - "both the lifeboat's engines cut out at times as they hit the seabed"
+  - "I'm sorry, one more time. The sound is cutting out."
+  - synonyms: stop working · cease to function · stop · fail · give out · break down · malfunction
+
+
 

@@ -1,6 +1,18 @@
 # D-G
 
 
+## dairy
+
+[ˈderi]
+
+*n.*
+乳制品
+*adj.*
+牛奶的，乳制的; 乳品业的
+
+See, bottom shelf: meats and dairy. 看，底层放肉类及乳制品。
+
+
 ## decent
 
 [ˈdiːsnt]
@@ -72,6 +84,13 @@ Probably for variety. This is a motto that the listener is supposed to bear in m
 all, and the punchier it is, the more likely they are to remember it. Or so one can hope.
 
 
+## dialect
+
+方言
+
+local dialect 本地方言
+
+
 ## dish
 
 It's not even the same dish! 甚至完全就不是同一道菜
@@ -121,6 +140,22 @@ All that work ... down the drain. 所有的努力都付之东流
 The case is going down the drain. 该案将前功尽弃了
 
 
+## draw
+
+[ drɔː]
+
+*v.*
+画; 移动; 拉，拖; 拔出; 吸，抽; 支取（钱）; 推断出; 作比较; 吸引，引起（…注意）; 打成平手\
+*n.*
+抽奖，抽签; 平局; 吸烟
+
+- England drew with/against France. 英格兰队与法国队打成平局。
+- The two teams drew the game. 两个队把比赛打成了平局.
+- He paused, drawing a deep breath. 他停了下来，深深地吸了口气。
+- He drew on an American cigarette... 他抽着一根美国产的香烟。
+- Her cheeks hollowed as she drew smoke into her lungs. 当她把烟吸进肺里时，她的双颊瘪了下去。
+
+
 ## drunk with power
 
 沉溺于权力
@@ -162,9 +197,12 @@ an extinct species
 
 光明正大; 公正地; 正中目标; 公平合理
 
-You won fair and square. 你赢得光明正大。
+- You won fair and square. 你赢得光明正大。
+- Our apartment! We won it fair and square. Twice! 我们的公寓。我们光明正大地赢了两次得到的！
 
-[老友记片段](https://www.ixigua.com/7025544939777819166)
+参见：
+- [老友记片段 1](https://www.ixigua.com/7025544939777819166)
+- [老友记片段 2](https://www.ixigua.com/7055865853706764831)
 
 
 ## fall out
@@ -240,6 +278,14 @@ ferocious lion
 吮指
 
 
+## flight
+
+*n.*
+航班; 一层楼梯; 一群飞鸟
+
+went up two flights of stairs 爬了两层楼梯
+
+
 ## flip a coin
 
 Girls. Girls. Stop. Okay, we'll flip a coin. 女士们，停一停。我们投硬币确定吧。\
@@ -247,6 +293,15 @@ Heads, she's Rachel's. 正面，归瑞秋。\
 Tails, she's Monica's. 反面，归莫妮卡。
 
 [老友记片段](https://www.ixigua.com/7025544939777819166)
+
+
+## flip out
+
+精神失常，发疯
+
+but then he started to flip out and now this feels like a bad idea
+
+[大爆炸片段](https://www.ixigua.com/7053424288761643551)
 
 
 ## flock
@@ -261,6 +316,16 @@ n.
 <center>
 Snow buntings flock during a snow storm in New York
 </center>
+
+
+## foodie
+
+[ˈfudi]
+
+*n.*
+美食家; 爱吃的人; 吃货（=foody）
+
+She's a foodie, right? 她是个吃货，对吧?
 
 
 ## fool around
@@ -385,6 +450,16 @@ Beijing food is rich but not greasy. 京菜油重但不油腻
 It's a little dry 有点干
 but actually it's not overly greasy and 其实也不是太油腻
 the taste is actually really good 味道还挺不错的
+
+
+## greenhorn
+
+[ˈgrinhɔrn]
+
+*n.*
+无经验易受骗的人，涉世不深的人; 不经事
+
+As a wpf greenhorn i have a little question. 作为新手我有个小问题要问
 
 
 ## gross
