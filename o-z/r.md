@@ -8,6 +8,27 @@
 rabid dog 疯狗
 
 
+## rat race
+
+内卷
+
+It's the perfect serene escape from rat race. 此处的宁静让你暂时忘却内卷的世界。
+
+
+## ravishing
+
+[ˈrævɪʃɪŋ]
+
+*adj.*
+极其美丽的\
+*v.*
+使欣喜若狂，使着迷，使心醉( ravish的现在分词 )
+
+You are looking particularly ravishing today. 今天你看起来令人销魂。
+
+[大爆炸片段](https://www.ixigua.com/7064844033163690531)
+
+
 ## recap
 
 [riˈkæp]
@@ -85,6 +106,11 @@ She says to break the bad boyfriend cycle ...
 you can do like a cleansing ritual. 可以举行一个清理仪式
 
 [老友记片段](https://www.ixigua.com/7013968814865908255)
+
+
+## rock-paper-scissors
+
+How about we go rock-paper-scissors? 要不我们来剪刀石头布？
 
 
 ## roll down

@@ -71,6 +71,17 @@ that this has a one-terabyte solid-state drive? 确保这台是有 1TB 固态硬
 ![](pix/seat_covers.jpg)
 
 
+## top-notch
+
+[ˌtäpˈnäCH]
+
+*ADJECTIVE*
+informal\
+of the highest quality; excellent.
+- a top-notch hotel
+- their work was top-notch
+
+
 ## top-shelf
 
 \ ˈtäp-ˈshelf \
@@ -93,6 +104,19 @@ that this has a one-terabyte solid-state drive? 确保这台是有 1TB 固态硬
 
 n.
 乌龟; 行动迟缓的人（或物）
+
+
+## toss
+
+[tɔːs]
+
+*vt.& vi.*
+扔，抛; （使）摇荡; 摇匀; 掷硬币决定\
+*n.*
+掷硬币决定; 向上甩头; 猛仰头（尤指表示恼怒或不耐烦）; （尤指比赛或游戏中）投掷
+
+Do it. Visualize it as your anger 扔吧。把它想象成你的愤怒，
+and toss it out of your life. 然后用力将其扔出你的人生。
 
 
 ## transcript
@@ -120,6 +144,13 @@ Divorce can be traumatic for everyone involved.
 ## trim your nails
 
 剪指甲
+
+
+## troll
+
+（网络）喷子
+
+[What Is an Internet Troll? (and How to Handle Trolls)](https://www.howtogeek.com/465416/what-is-an-internet-troll-and-how-to-handle-trolls/)
 
 
 ## tummy

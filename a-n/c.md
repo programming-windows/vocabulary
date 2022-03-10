@@ -1,6 +1,12 @@
 # C
 
 
+## can't
+
+- I can't stress this enough ... 我必须强调
+- I can't agree more 完全同意
+
+
 ## canvas
 
 [ˈkænvəs]
@@ -227,6 +233,22 @@ This luxurious home with a big courtyard 这个奢侈的四合院 \
 has now been turned into a series of art classrooms and studios. 现在已变成课堂和工作室
 
 
+## cozy
+
+[ˈkoʊzi]
+
+*adj.*
+（感到）温暖舒适的; 愉快的，亲切的; 轻易得到的\
+*n.*
+（茶壶）保暖罩
+
+- That would be too cozy. 那样就太舒服了.
+- So first of all, if it was just me in the back it would have been pretty cozy.\
+首先，如果只是我一个人在这车的后面（露营）的话还是不错的（意指两个人有些挤）
+
+参见 [cramped](#cramped)
+
+
 ## crack the top ...
 
 - 10 college football teams that can crack the top 25 and make some noise in 2021
@@ -247,6 +269,20 @@ another term for **poor white**.
 It had a buttery, crumbly, graham cracker crust with a very rich yet light cream cheese filling.
 
 [老友记片段](https://www.ixigua.com/7051888411879473695)
+
+
+## cramped
+
+[kræmpt]
+
+*adj.*
+狭窄的; 难懂的\
+*v.*
+夹紧(cramp的过去式); 用夹钳夹; 约束
+
+- It was definitely pretty cramped. 空间就有点窄
+
+参见 [cozy](#cozy)
 
 
 ## crotchless
@@ -317,6 +353,19 @@ n.
 an edging (as of concrete) built along a street to form part of a gutter.
 
 ![traffic curb](pix/curb.jpg)
+
+
+## cursory
+
+[ˈkɜːrsəri]
+
+*adj.*
+粗略的，草率的，仓促的; 肤皮潦草
+
+All right, based on a cursory reading, 好吧，根据我的粗略阅读\
+it doesn't look like you have much of a case, Sheldon. 看起来你没什么获胜的几率，谢尔顿
+
+[大爆炸片段](https://www.ixigua.com/7064168606287954445)
 
 
 ## cut out

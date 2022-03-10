@@ -22,6 +22,25 @@ Wow, my whole mouth just filled with saliva.
 hand sanitizer 洗手液
 
 
+## sarcasm
+
+[ˈsɑːrkæzəm]
+
+*n.*
+讥讽; 嘲讽; 反话
+
+This is sarcasm, not constructive criticism.
+这是讥讽, 不是善意的批评.
+
+
+## Saturn
+
+[ˈsætɜːrn]
+
+*n.*
+土星
+
+
 ## savory
 
 ['seɪvərɪ]
@@ -41,12 +60,44 @@ rich and savory like American style 厚油而丰富的美式风格
 
 [ˈsævi]
 
-n.
-机智; 头脑; 理解; 悟性
-adj.
-有见识的，懂实际知识的，通情达理的
+*n.*
+    机智; 头脑; 理解; 悟性\
+*adj.*
+    有见识的，懂实际知识的，通情达理的
 
 tech savvy 精通技术, 技术大拿
+
+
+## screen
+
+[skriːn]
+
+*n.*
+屏幕; 银幕; 电影; 屏风; 掩蔽物; 纱门; 围屏\
+*v.*
+放映; 遮挡; 包庇; 检查; **筛选**; 转接
+
+If you're listening to this message, we're probably screening. 
+如果你听到这个留言，那很可能是我们的筛选电话。
+
+
+## serene
+
+[səˈriːn]
+
+*adj.*
+沉静的，宁静的，安宁的; 安详的; 晴朗的; 清澈的
+
+It's the perfect serene escape from rat race. 此处的宁静让你暂时忘却内卷的世界。
+
+
+## shrink
+
+[ʃrɪŋk]
+
+*n.* 心理医生
+
+- My shrink just killed himself and blamed me in the note. 我的心理医生自杀了，还留下纸条说都怪我。
 
 
 ## silo
@@ -152,12 +203,30 @@ vt.
 浸泡，浸透; 吸入; 沉浸在（工作或学习中）; 湿透
 
 
+## squat potty
+
+蹲坑
+
+
 ## squiggle
 
 [ˈskwɪɡəl]
 
 n.
 歪扭或波形短线，难认的笔迹
+
+
+## squishy
+
+[ˈskwɪʃi]
+
+*adj.*
+soft and moist.
+
+- the bananas will turn soft and squishy 
+- the road is a sluice of squishy mud
+
+![](pix/squishy.jpg)
 
 
 ## squint

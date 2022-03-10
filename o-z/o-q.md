@@ -45,9 +45,23 @@ Do you even understand what "off-the-rack" means? 你到底知不知道“现成
 [老友记片段](https://www.ixigua.com/7059729127900709407)
 
 
+## overbite
+
+龅牙
+
+
 ## pants
 
 ![](pix/pants.jpg)
+
+
+## pastrami
+
+[pəˈstrɑmi]
+
+Pastrami is a Romanian dish usually made from beef brisket, and sometimes from lamb, or turkey. The raw meat is brined, partially dried, seasoned with herbs and spices, then smoked and steamed. Like corned beef, pastrami was originally created as a way to preserve meat before the invention of refrigeration. One of the iconic meats of American Jewish cuisine and New York City cuisine, hot pastrami is typically served at delicatessens on sandwiches such as the pastrami on rye.
+
+![](pix/pastrami.jpg)
 
 
 ## peep
@@ -63,6 +77,16 @@ I'm gonna do this my way 我要按我的方式去做
 and I don't wanna hear a peep out of you. 你不准唧唧歪歪
 
 [老友记片段](https://www.ixigua.com/7026273808315056676)
+
+
+## perky
+
+[ˈpɜrki]
+
+*adj.*
+得意扬扬的; 神气的; 活泼的; 有生气的
+
+No, they said I was too perky. 没有，他们说我太活泼了。
 
 
 ## perpendicular
@@ -239,6 +263,12 @@ n.
 
 I'll tell you exactly what you should do: 我来告诉你该怎样去做：\
 avoid the presumption of the Terran sensory input paradigm 避免对地球人感知模式先入为主的偏见
+
+
+## Pringles
+
+*n.*
+“品客”薯片; [地名] [阿根廷] 普林格莱斯
 
 
 ## prowess

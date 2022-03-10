@@ -77,6 +77,19 @@ There is ample parking. 停车位挺足
 [大爆炸片段](https://www.ixigua.com/7005167121772741133)
 
 
+## anecdotal
+
+[ˌænɪkˈdoʊtl]
+
+*adj.*
+传闻的; （含）轶事的
+
+Anecdotal evidence suggests that in the game of rock-paper-scissors, 
+players familiar with each other will tie 75 to 80% due to the limited number
+of outcomes. \
+传闻有证据表明在剪刀石头布中，如果让互相熟悉的玩家进行一定局数的较量，那么其中75到80%会平局收场。
+
+
 ## anticlimactic
 
 [ˌæntɪklaɪ'mæktɪk]
@@ -132,6 +145,15 @@ n.
 a distinctive, typically pleasant smell.
 
 #### Fragrant. Term applied to wines with pronounced and pleasing aroma.
+
+
+## at stake
+
+*adv.*
+危如累卵，危险\
+濒于险境，处于成败关头
+
+There was a lot at stake.
 
 
 ## authentic
@@ -222,6 +244,30 @@ a typical apartment of an unmarried man\
 - [大爆炸片段](https://www.ixigua.com/7055609424315941413)
 
 
+## beefy
+
+[ˈbifi]
+
+*adj.*
+壮实的；牛肉似的; 结实的，肌肉发达的
+
+- Wei is pretty beefy individual 伟有相当壮实的体型
+
+
+## blanch
+
+[blæntʃ]
+
+*vt.*
+焯水
+
+briefly immerse (an item of food) in boiling water, especially as a technique for 
+removing the skin from nuts or fruit or for preparing vegetables for further cooking.
+
+- I really learned from your cooking, Jay, 
+that in Chinese cooking you need to blanch a lot of things
+
+
 ## boner / booboo
 
 [ˈboʊnə(r)] / ['bubu]
@@ -293,6 +339,11 @@ n.
 （来自攻击一方的）主要力量; 撞击，进攻; 冲击
 
 bear the brunt
+
+
+## buck teeth
+
+龅牙
 
 
 ## buttery

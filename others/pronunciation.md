@@ -1,0 +1,10 @@
+﻿# pronunciation
+
+
+## vitamin
+
+[ˈvaɪtəmɪn]
+
+
+
+

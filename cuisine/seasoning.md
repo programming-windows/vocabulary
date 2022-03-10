@@ -1,22 +1,41 @@
-# Chinese Cuisine Seasoning
+ï»¿# Chinese Cuisine Seasoning
 
-ÖĞ²Íµ÷Î¶Æ·
+ä¸­é¤è°ƒå‘³å“
 
-Hubei Cuisine ³ş²Ë
+Hubei Cuisine æ¥šèœ
 
 
 ## 1 Chinese Five Spice Powder Recipe
 
 
-**ÎåÏã·ÛÅä·½**
+**äº”é¦™ç²‰é…æ–¹**
 
-°Ë½ÇÜîÏã¡¢¶¡Ïã¡¢Ğ¡ÜîÏã×Ñ¡¢¹ğÆ¤ºÍËÄ´¨»¨½·¡£
+å…«è§’èŒ´é¦™ã€ä¸é¦™ã€å°èŒ´é¦™ç±½ã€æ¡‚çš®å’Œå››å·èŠ±æ¤’ã€‚
 
 [THE MEASUREMENTS TO CONVERT COMMON WHOLE SPICES INTO GROUND](https://www.mccormick.com/articles/lifehacker/the-measurements-to-convert-common-whole-spices-in)
 
 [CHINESE FIVE SPICE](https://www.feastingathome.com/chinese-five-spice)
 
 [CHINESE FIVE-SPICE POWDER](https://www.food.com/recipe/chinese-five-spice-powder-24232)
+
+
+### 
+
+- cilantro [sÉªËˆlÃ¦ntroÊŠ] é¦™èœ
+- dipping sauce è˜¸æ–™
+- green onions è‘±
+- oyster sauce è€—æ²¹
+- vinegar [ËˆvÉªnÉªÉ¡É™r] é†‹
+
+
+- stir it all up æ‹Œä¸€ä¸‹
+
+## sizzling fish æ²¸è…¾é±¼
+
+![sizzling-fish.jpg](pix/sizzling-fish.jpg)
+
+
+
 
 
 
