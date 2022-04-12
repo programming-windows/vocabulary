@@ -8,6 +8,17 @@
 rabid dog 疯狗
 
 
+## rapeseed
+
+['reɪpsid]
+
+*n.*
+油菜籽; 油菜籽; 菜子
+
+- those are rapeseed plants 那些是油菜花 \
+and various other miscellaneous vegetable items 还有各种其它的小蔬菜
+
+
 ## rat race
 
 内卷

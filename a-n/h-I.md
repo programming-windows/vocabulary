@@ -36,6 +36,18 @@ n.
 Sounds like Sheldon was a handful. 听起来谢尔顿曾是个熊孩子
 
 
+## the hang of
+
+(idiomatic) To learn to handle something with some skill, through 
+practice or diligence, which can lead to an almost unconscious 
+performance thereof. 
+
+- Driving feels awkward when you’re new to it, but it’s easy once you 
+get the hang of it.
+- Just when I think I've gotten the hang of sarcasm.\
+我还当是我掌握到了挖苦的窍门呢。
+
+
 ## hare
 
 [her]
@@ -64,6 +76,8 @@ verb. to go in a particular direction
 * I think we ought to head back/home (= return to where we started) now, 
 before it gets too dark.
 * Doesn't matter. He's headed for the kitchen anyway. 无所谓，反正他往厨房方向去了。
+* So, why don't you pack up your stuff and we'll **head back** \
+何不快去收拾东西，我们这就打道回府
 
 [大爆炸片段](https://www.ixigua.com/7053757808293970462)
 
@@ -87,6 +101,26 @@ before it gets too dark.
 提醒
 
 Thanks for the heads up. 谢谢提醒
+
+
+## headway
+
+[ˈhedweɪ]
+
+motion or rate of motion in a forward direction\
+ADVANCE, PROGRESS
+
+- make headway 渐入佳境，取得进展
+- Progress is not necessarily discernible, but the person is certainly making headway.
+
+
+## heck
+
+[hɛk]
+
+expressing surprise, frustration, or dismay
+
+- oh heck, I can't for the life of me remember
 
 
 ## hibernation

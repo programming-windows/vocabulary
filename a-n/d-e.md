@@ -170,6 +170,19 @@ The case is going down the drain. 该案将前功尽弃了
 I'm totally drunk with power. 我被权力冲昏了头
 
 
+## dumbass
+
+[dʌm'bæs]
+
+*n.*
+a stupid or contemptible person.\
+*adj.*
+stupid; contemptible.
+
+- we have a dumbass of a mayor
+- dumbass politicians
+
+
 ## eggplant
 
 [ˈeɡplænt]
@@ -193,6 +206,16 @@ adj.
 （动物、鸟类等）濒危的，濒于灭绝的
 
 endangered animal
+
+
+## entourage
+
+[ˈɑnturɑʒ]
+
+*n.*
+随从；随行人员
+
+- Right. You're Howard's entourage.
 
 
 ## extinct

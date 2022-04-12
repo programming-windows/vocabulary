@@ -83,6 +83,16 @@ ferocious lion
 - [How to Fill Awkward Silences](https://www.wikihow.com/Fill-Awkward-Silences)
 
 
+## final say
+
+*n.*
+最终决定权
+
+- You have the final say.
+\
+你说了算.
+
+
 ## finger licking
 
 吮指

@@ -29,8 +29,10 @@ hand sanitizer 洗手液
 *n.*
 讥讽; 嘲讽; 反话
 
-This is sarcasm, not constructive criticism.
+- This is sarcasm, not constructive criticism.\
 这是讥讽, 不是善意的批评.
+- Just when I think I've gotten the hang of sarcasm.\
+我还当是我掌握到了挖苦的窍门呢。
 
 
 ## Saturn
@@ -89,6 +91,14 @@ If you're listening to this message, we're probably screening.
 沉静的，宁静的，安宁的; 安详的; 晴朗的; 清澈的
 
 It's the perfect serene escape from rat race. 此处的宁静让你暂时忘却内卷的世界。
+
+
+## shine
+
+be very talented or perform very well:
+
+- she shines at comedy
+- That doesn't seem to be where I shine. 貌似那不是我的强项。
 
 
 ## shrink
@@ -152,6 +162,21 @@ Easy for you to say, skinny bitch. 说起来倒容易，你个瘦皮猴
 ![](pix/slate_countertop.jpg)
 
 
+## sleep tight
+
+Sleep well. A phrase said to someone when they are going to sleep.
+- I think I'm going to head to bed." B: "
+- OK, sleep tight! See you in the morning.
+- Good night, sweetheart, sleep tight!
+
+to sleep warm and safe. (Usually said with good night to someone going to bed.) 
+- sleep tight, Bobby. See you in the morning.
+
+(informal, spoken) used especially to children before they go to bed to say 
+that you hope they sleep well: 
+- Good night, Pat, sleep tight!
+
+
 ## slim to none
 
 almost none
@@ -188,6 +213,17 @@ n.
 偷偷摸摸, 鬼鬼祟祟
 
 I'm getting tired of sneaking around. 我不想再偷偷摸摸、鬼鬼祟祟了。
+
+
+## snob
+
+[snɑːb]
+
+*n.*
+势利小人，势利眼; 附庸风雅之徒，假内行
+
+- I really I'm kind of a coffee snob. 我的确是个在咖啡上穷讲究的人
+- ...a first class food snob. 自认为饮食方面品位一流的家伙
 
 
 ## snowbird
@@ -244,6 +280,26 @@ If I squint, I can pretend he's Alan Alda.
 [老友记片段](https://www.ixigua.com/7003653369168560676)
 
 
+## stake
+
+[steɪk]
+
+*n.* \
+the amount of money that you risk on the result of a game or competition:
+- What stakes do you propose? 赌什么？
+- Almost everyone has a stake in the global economy these days.
+- She spent two weeks in Las Vegas playing high-stakes blackjack at the casinos.
+
+*n.* \
+a share or a financial involvement in something such as a business:
+- He holds (= owns) a 40 percent stake in/of the company.
+- He has no financial stake in the company.
+- They had planned to buy a 20 percent stake in the company.
+- He left his wife and family a 38 percent stake in the largest store group in the world.
+
+[wager](t-z.md#wager)
+
+
 ## staycation
 
 [ˌsteɪ'keɪʃn]
@@ -280,6 +336,17 @@ What does the expression “be stretched thin” mean?
 
 **Example**: Our staff is really stretched thin at this time of year—lots of people are on 
 vacation, but the workload doesn’t diminish.
+
+
+## super-ager
+
+不老者，青春永驻者
+
+[What makes a cognitive super-ager?](https://www.health.harvard.edu/healthy-aging/what-does-it-take-to-be-a-super-ager)
+\
+Dr. Bradford Dickerson, a neurologist at Harvard-affiliated Massachusetts General Hospital and his colleagues have been studying super-agers for several years. Their results suggest that embracing new mental challenges may be the key to preserving both brain tissue and brain function.
+
+In one study, 81 healthy adults — 40 of whom were 60 to 80 years old and 41 of whom were 18 to 35 — were read a list of 16 nouns six times. Twenty minutes later, they were asked to recall as many of the words as possible. While 23 of the older participants recalled nine or fewer words, a score considered average for their age group, 17 seniors — the super-agers — could remember 14 words or more, a score similar to that of the younger participants.
 
 
 ## surreal

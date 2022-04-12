@@ -64,6 +64,21 @@ Pastrami is a Romanian dish usually made from beef brisket, and sometimes from l
 ![](pix/pastrami.jpg)
 
 
+## easy-peasy
+
+小菜一碟 \
+Extremely easy or simple; requiring very little skill or effort.
+
+- After so many years as an accountant, doing taxes is easy peasy for me.
+- Don't worry, after some lessons and a bit of practice, driving will be 
+easy peasy!
+
+
+## pee-pee
+
+小鸡鸡（儿童语）、尿尿
+
+
 ## peep
 
 [piːp]
@@ -228,6 +243,34 @@ a sweater in four-ply yarn 四股毛线织成的毛衣
 four-ply toilet paper 四层的厕纸
 
 
+## point-blank
+
+1. If you say something point-blank, you say it very directly and firmly, 
+without explaining or apologizing. 
+- The army apparently refused point-blank to do what was required of them. 
+- Mr Patterson was asked point blank if he would resign. 
+
+**Note:** Point-blank is also an adjective. 
+- We received a point-blank refusal.
+
+2. If someone or something is shot point-blank, they are shot when the gun 
+is touching them or extremely close to them. 
+- He fired point-blank at Bernadette. 
+
+**Note:** Point-blank is also an adjective. 
+- He had been shot at point-blank range in the back of the head.
+
+
+## Point Blank Period
+
+不接受反驳
+
+1. Phrase meaning the end of a conversation, usually inserted to the end of 
+a sentence when the speaker is tired of the subject.
+
+2. Phrase attached to the end of a sentence in order to express a strong point.
+
+
 ## pomelo
 
 [ˈpɑːməloʊ] [pəˈmeloʊ]
@@ -291,12 +334,56 @@ causes physical changes, and affects boys and girls differently. The first sign 
 puberty is usually breast development. Then hair grows in the pubic area and armpits.
 
 
+## puff
+
+[pʌf]
+
+Alright, now try taking a puff. 好，现在试试吸一口（烟）。
+
+![](pix/take-a-puff.jpg)
+
+![](pix/life-s-ruff.jpg)
+![](pix/puff.jpg)
+
+
 ## puffer fish
 
 ['pʌfər]
 
 n.
 河豚
+
+
+## puke
+
+[pjuk]
+
+*v.*
+呕吐
+
+- It makes me want to puke. 我都快吐了
+
+
+## pull (some/a few) strings
+
+To use the power or influence one has over others, especially people of 
+importance, to get what one wants or to help someone else.
+
+- I hear that the only reason Johnny got into college was because his dad 
+pulled some strings with the president of the university.
+- I actually know a few people who work at the restaurant, so I'll see if I 
+can pull a few strings and get you a table.
+- You wait and see, he's going to start pulling strings to get this police 
+investigation quashed.
+
+
+## push sth back
+
+拖延，推迟
+
+- I guess I could push it back. 我猜我能延期一下
+- Hey, uh, deployment meeting's gonna be pushed back an hour \
+嘿 呃 部署会议推迟一小时
 
 
 ## put down
@@ -321,7 +408,7 @@ v.
 1. (Yiddish) a fool; an idiot
 2. obscene terms for penis
 
-You are a putz
+- You are a putz
 
 [大爆炸片段](https://www.ixigua.com/7004795980377915912)
 
@@ -330,13 +417,12 @@ You are a putz
 
 [ˈkwɔːrəntiːn]
 
-n.
-检疫期，隔离期; 检疫所，隔离所; 四十天的时间
-
-vt.
+*n.*
+检疫期，隔离期; 检疫所，隔离所; 四十天的时间\
+*vt.*
 对…进行检疫; 隔离
 
-She is at the hospital in quarantine. 她在医院被隔离
+- She is at the hospital in quarantine. 她在医院被隔离
 
 
 

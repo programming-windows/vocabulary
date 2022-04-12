@@ -268,6 +268,27 @@ removing the skin from nuts or fruit or for preparing vegetables for further coo
 that in Chinese cooking you need to blanch a lot of things
 
 
+## blend
+
+\[blend\]
+
+*v.*
+（使）混合; 融合，结合; 协调\
+*n.*
+融合; 混合（物）
+
+- Choose curtains that blend in with your decor.\
+挑选和装饰格调一致的窗帘。
+- No, I want to blend in\
+不行，我得入乡随俗
+
+
+## body odor
+
+*n.*
+体臭; 狐臭
+
+
 ## boner / booboo
 
 [ˈboʊnə(r)] / ['bubu]
@@ -279,7 +300,7 @@ n.
 * Oh, gosh, golly, I made a boo-boo. 天啊，犯了个蠢错
 
 
-## shoes covers / booties covers / disposable boot and shoe covers
+## booties covers / shoes covers / disposable boot and shoe covers
 
 ![](pix/shoes_covers.jpeg)
 
@@ -329,6 +350,20 @@ The knowlage found in someones mind that may be exercised of them like juice fro
 我来要回乔伊上次借的烤盘
 
 [老友记片段](https://www.ixigua.com/7059729127900709407)
+
+
+## brown-nose
+
+*v.*
+拍马屁，谄媚
+
+*verb* 
+To try to curry favor with someone through flattery or favors in the hopes 
+of getting something in return.
+- I'm not doing well at all in math this year, so it seems like brownnosing 
+the teacher is my only hope for a good grade!
+- Don't brownnose me with chocolates and sweet talk\
+just tell me what you want!
 
 
 ## brunt

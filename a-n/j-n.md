@@ -190,11 +190,6 @@ This is malarkey! 这是屁话
 [大爆炸片段](https://www.ixigua.com/7004070526461149703)
 
 
-## mommy-to-be
-
-准妈咪
-
-
 ## maniac
 
 [ ˈmeɪniæk]
@@ -215,12 +210,27 @@ What kind of maniacs have coitus in someone else's bedroom?!
 吉祥物
 
 
+## matchmaker
+
+媒婆，红娘
+
+
 ## meddle
 
 *v.*
 干涉，插手; 弄，摸弄，用手玩弄; 参与，发生关系
 
-You meddled in our relationship! 你插手了我们的关系
+- You meddled in our relationship! 你插手了我们的关系
+
+
+## menage a trois
+
+[ˌmeɪnɑ:ʒ ɑ: ˈtrwʌ]
+
+n.
+<法>（一妻一妾）三角家庭 \
+household for three; an arrangement where a married couple and a lover 
+of one of them live together while sharing sexual relations
 
 
 ## mince pie
@@ -244,6 +254,45 @@ heck instead of hell,  shoot for shit, golly and gosh for God, jeepers creepers 
 
 - [def jeepers creepers](https://www.dictionary.com/e/slang/jeepers-creepers/)
 - [jeepers creepers](#jeepers-creepers)
+
+
+## miscellaneous
+
+[ˌmɪsəˈleɪniəs]
+
+*adj.*
+各种各样的; 五花八门的; 混杂的; 多方面的
+
+- a sale of miscellaneous household items 各种生活用品大减价
+
+
+## mommy-to-be
+
+准妈咪
+
+
+## moonlight
+
+[ˈmunˌlaɪt]
+
+*vi.*
+兼职
+
+- I moonlight as a travel guide.
+\
+我以导游做兼职工作.
+
+## nag
+
+[næɡ]
+
+*v.*
+唠叨; 不断困扰，使不得安宁\
+*n.*
+马
+
+- She nags her husband all day long
+
 
 ## newbie
 

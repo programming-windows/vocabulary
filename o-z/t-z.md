@@ -39,6 +39,21 @@ I play with the original rules though. Tag backs are just fine. :)
 [老友记片段](https://www.ixigua.com/7054528337271915015)
 
 
+## tantrum
+
+[ˈtæntrəm]
+
+*n.*
+an uncontrolled outburst of anger and frustration, typically in a young child.
+
+*synonyms*:
+fit of temper · fit of rage · fit of pique · fit · 
+outburst · flare-up · blowup · pet · paroxysm · frenzy · 
+bad mood · mood · huff · scene · mard · shit fit
+
+- he has temper tantrums if he can't get his own way
+
+
 ## tape measure
 
 卷尺
@@ -58,11 +73,48 @@ that this has a one-terabyte solid-state drive? 确保这台是有 1TB 固态硬
 [大爆炸片段](https://www.ixigua.com/7056301385033187847)
 
 
+## thereof
+
+ADVERB
+formal
+
+of the thing just mentioned; of that.
+- the member state or a part thereof
+- ...a charge of £20 per hour or part thereof.\
+一小时或不足一小时收费 20 英镑
+
+
 ## thunderbolt port
 
 雷电接口
 
 [大爆炸片段](https://www.ixigua.com/7056301385033187847)
+
+
+## tinkle
+
+[ˈtɪŋkəl]
+
+尿尿
+
+*vt.& vi.*
+（使）发出丁当声，（使）发铃铃声\
+*vt.*
+叮当响着发出，铃铃响着报出\
+*n.*
+丁当声，铃铃声; <英><口>一次电话
+
+- Oh, dear! I have to tinkle again. 妈呀！又要尿尿了。
+
+
+## tissue
+
+*n.*
+(动植物的)组织; 薄纸; 面巾纸
+
+- muscle/brain/nerve, etc. tissue
+\
+肌肉、大脑、神经等组织
 
 
 ## toilet seat protector sheet / toilet seat cover
@@ -246,6 +298,23 @@ Did they put vinegar inside? 放醋了吗？
 
 That movie was really wack.\
 It's wack, the worst ever. 太垃圾了，史上最烂。
+
+
+## wager
+
+[ˈwedʒɚ]
+
+*n.* 
+赌金，赌注; 赌物; 赌博 \
+*vt.& vi.*
+打赌; 担保，保证 \
+*vt.*
+保证，担保; 下赌注
+
+- All right, you have a wager.
+- I have lose the wager.
+
+[stake](s.md#stake)
 
 
 ## wasted

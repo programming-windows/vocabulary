@@ -7,6 +7,14 @@
 - I can't agree more 完全同意
 
 
+## get canned
+
+To be summarily dismissed or ousted from employment; to be fired.
+
+- The new accountant got canned after a miscalculation cost the company 
+hundreds of thousands of dollars.
+
+
 ## canvas
 
 [ˈkænvəs]
@@ -78,6 +86,11 @@ n.
 That was a cheap shot. 这招很贱.
 
 
+## checkmate
+
+将军
+
+
 ## cheesy
 
 [ˈtʃizi]
@@ -85,9 +98,8 @@ That was a cheap shot. 这招很贱.
 *adj.*
 有干酪味的; 劣质的; 虚伪的
 
-It's getting kind of cheesy, Leonard. 越说越烂俗了哦，莱纳德。
-
-[大爆炸片段](https://www.ixigua.com/7038878014192648711)
+- It's getting kind of cheesy, Leonard. 越说越烂俗了哦，莱纳德。
+- you just hate Cheesy dramas 你就是讨厌肉麻的偶像剧
 
 
 ## chill out
@@ -120,6 +132,11 @@ adj.
 胖乎乎的，圆胖的，丰满的
 
 It's like the perfect kind of chubby 它(大熊猫)就像是那种完美的可爱丰满
+
+
+## chuckle
+
+![chuckle-brothers.jpg](pix/chuckle-brothers.jpg)
 
 
 ## claustrophobia
@@ -222,6 +239,14 @@ Another thing I've got which I was quite surprised about
 was I got constipation
 
 
+## contemptible
+
+[kənˈtemptəbl]
+
+*adj.*
+卑劣的，可鄙的
+
+
 ## courtyard
 
 [ˈkɔːrtjɑːrd]
@@ -231,6 +256,13 @@ was I got constipation
 
 This luxurious home with a big courtyard 这个奢侈的四合院 \
 has now been turned into a series of art classrooms and studios. 现在已变成课堂和工作室
+
+
+## a coy smile
+
+![](pix/coy-smile.jpg)
+
+腼腆一笑
 
 
 ## cozy
@@ -247,6 +279,20 @@ has now been turned into a series of art classrooms and studios. 现在已变成
 首先，如果只是我一个人在这车的后面（露营）的话还是不错的（意指两个人有些挤）
 
 参见 [cramped](#cramped)
+
+
+## crack
+
+[kræk]
+
+*v.*
+（使）破裂，裂开; 砸开，重击; （使）发出爆裂声; （因压力而）崩溃，瓦解; 变沙哑; 开（玩笑）; 找到解决…的方法\
+*n.*
+缝隙，裂缝; 噼啪声; 尝试; 笑话\
+*adj.*
+训练有素的; 一流的
+
+- this one cracks me up. 这个真的让我笑翻了。
 
 
 ## crack the top ...
@@ -283,6 +329,14 @@ It had a buttery, crumbly, graham cracker crust with a very rich yet light cream
 - It was definitely pretty cramped. 空间就有点窄
 
 参见 [cozy](#cozy)
+
+
+## cricket
+
+[ˈkrɪkɪt]
+
+*n.*
+蟋蟀; 板球（运动）
 
 
 ## crotchless
