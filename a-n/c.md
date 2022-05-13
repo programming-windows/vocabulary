@@ -1,6 +1,14 @@
 # C
 
 
+## calcium
+
+[ˈkælsiəm]
+
+*n.*
+钙
+
+
 ## can't
 
 - I can't stress this enough ... 我必须强调
@@ -66,6 +74,15 @@ v.
 - By all means. 当然可以
 
 [老友记片段](https://www.ixigua.com/7010279669651997198)
+
+
+## catwalk
+
+
+[ˈkætˌwɔk]
+
+*n.*
+（时装表演时模特儿走的）伸展台; 猫步
 
 
 ## cesspool

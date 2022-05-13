@@ -19,6 +19,12 @@ Hubei Cuisine 楚菜
 [CHINESE FIVE-SPICE POWDER](https://www.food.com/recipe/chinese-five-spice-powder-24232)
 
 
+## 2 Meat
+
+- cured meat 腊肉
+- smoked meat 熏肉
+
+
 ### 
 
 - cilantro [sɪˈlæntroʊ] 香菜
@@ -26,6 +32,8 @@ Hubei Cuisine 楚菜
 - green onions 葱
 - oyster sauce 耗油
 - vinegar [ˈvɪnɪɡər] 醋
+- bean dip 豆酱
+- cumin [ˈkʌmɪn, ˈkumɪn, ˈkju-] 孜然
 
 
 - stir it all up 拌一下

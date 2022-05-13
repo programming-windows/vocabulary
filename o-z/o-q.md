@@ -192,7 +192,8 @@ Hold Cod Liver Oil/Tablets/ Capsule, Nude (Pink White&Blue),Random
 n.
 柱，台柱，顶梁柱; 墩，柱脚; （组织、制度、信仰等的）核心
 
-Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
+- Now, the kelp industry here in Xiapu has become a pillar industry. 支柱产业
+- You know that the two pillars of marriage are openness and honesty.
 
 
 ## pivot
@@ -286,7 +287,20 @@ n.
 n.
 入口; 桥门; [解剖学]肝门; 出孔
 
-The portal will get me right to the battlefield!
+- The portal will get me right to the battlefield!
+
+
+## preamble
+
+[ˈpriˌæmbəl, priˈæm-]
+
+*n.*
+序; 绪言; （法令、文件等的）序文; 前言
+
+- 'I would like you to return to the villa as soon as possible,' she said without preamble.
+\
+她开门见山地说：“我想让你尽快回到别墅。”
+- I know I need to define these two new environments in the preamble, but don't know how. 
 
 
 ## prenup
@@ -304,7 +318,7 @@ n.
 n.
 推测，设想; 放肆，傲慢; <律>推定
 
-I'll tell you exactly what you should do: 我来告诉你该怎样去做：\
+- I'll tell you exactly what you should do: 我来告诉你该怎样去做：\
 avoid the presumption of the Terran sensory input paradigm 避免对地球人感知模式先入为主的偏见
 
 
@@ -312,6 +326,17 @@ avoid the presumption of the Terran sensory input paradigm 避免对地球人感
 
 *n.*
 “品客”薯片; [地名] [阿根廷] 普林格莱斯
+
+
+## prone
+
+[proʊn]
+
+*adj.*
+易于…的; 俯卧的; 有…倾向的; 倾斜的，坡陡的
+
+- but these are prone to errors if nested file importing is needed
+- error-prone 容易出错的
 
 
 ## prowess
@@ -362,6 +387,17 @@ n.
 呕吐
 
 - It makes me want to puke. 我都快吐了
+
+
+## pull off
+
+成功，胜利完成; 脱去; 捣鬼
+
+- The old oil guys 石油界的前辈认为 \
+they figured there was no way we were
+我们绝对不可能 \
+going to be able to survive 生存下去\
+that we could pull it off. 不认为我们能成功。
 
 
 ## pull (some/a few) strings

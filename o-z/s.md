@@ -90,7 +90,19 @@ If you're listening to this message, we're probably screening.
 *adj.*
 沉静的，宁静的，安宁的; 安详的; 晴朗的; 清澈的
 
-It's the perfect serene escape from rat race. 此处的宁静让你暂时忘却内卷的世界。
+- It's the perfect serene escape from rat race. 此处的宁静让你暂时忘却内卷的世界。
+
+
+## shades
+
+[ʃeɪdz]
+
+*n.*	
+墨镜；夜幕；
+阴凉处; 背阴; (树)荫; 灯罩; 浓淡深浅; 色度;
+
+- Nice shades. 太阳镜很酷啊。
+- Thanks.
 
 
 ## shine
@@ -116,6 +128,16 @@ be very talented or perform very well:
 
 n.
 筒仓; 发射井; 地下贮藏库; 青贮窖
+
+
+## simp
+
+[sɪmp]
+
+*n.*
+笨人
+
+- king of simp 舔狗之王
 
 
 ## sip
@@ -208,11 +230,35 @@ n.
 * sophisticated smooth talker —— 油嘴滑舌
 
 
+## snack
+
+小吃
+
+
 ## sneak around
 
 偷偷摸摸, 鬼鬼祟祟
 
-I'm getting tired of sneaking around. 我不想再偷偷摸摸、鬼鬼祟祟了。
+- I'm getting tired of sneaking around. 我不想再偷偷摸摸、鬼鬼祟祟了。
+
+
+## snippy
+
+[ˈsnɪpi]
+
+*ADJECTIVE*
+*informal*
+NORTH AMERICAN
+
+curt or sharp, especially in a condescending way
+
+- a snippy note from our landlord
+- Cindy had been more than usually snippy.
+\
+辛迪异乎寻常的出言不逊.
+- I'm sorry I got snippy.
+\
+很抱歉,刚才我有些急躁.
 
 
 ## snob
@@ -297,7 +343,7 @@ a share or a financial involvement in something such as a business:
 - They had planned to buy a 20 percent stake in the company.
 - He left his wife and family a 38 percent stake in the largest store group in the world.
 
-[wager](t-z.md#wager)
+[wager](u-z.md#wager)
 
 
 ## staycation
@@ -305,6 +351,22 @@ a share or a financial involvement in something such as a business:
 [ˌsteɪ'keɪʃn]
 
 周遭游
+
+
+## steamy
+
+[ˈstimi]
+
+*adj.*
+蒸汽的，充满水汽的; 雾重的，潮湿的; 色情的\
+1. Filled with or emitting steam: a steamy bathroom.
+2. Hot and humid; muggy: a steamy summer afternoon.
+3. Erotic: a steamy striptease.
+
+- It's actually steamier than it looks. 其实现实比看上去色情多了。
+- Fans may have been expecting more steamy scenes between the pair 
+after watching season 1 of Bridgerton which chronicled the 
+relationship between Daphne (Phoebe Dynevor) and Simon (Regé Jean-Page).
 
 
 ## straighten up
@@ -338,15 +400,40 @@ What does the expression “be stretched thin” mean?
 vacation, but the workload doesn’t diminish.
 
 
+## suger-daddy, suger-baby, and uncle suger = uncle Sam
+
+糖爸，糖宝宝，山姆大叔（美国政府）
+
+
 ## super-ager
 
 不老者，青春永驻者
 
 [What makes a cognitive super-ager?](https://www.health.harvard.edu/healthy-aging/what-does-it-take-to-be-a-super-ager)
 \
-Dr. Bradford Dickerson, a neurologist at Harvard-affiliated Massachusetts General Hospital and his colleagues have been studying super-agers for several years. Their results suggest that embracing new mental challenges may be the key to preserving both brain tissue and brain function.
+Dr. Bradford Dickerson, a neurologist at Harvard-affiliated 
+Massachusetts General Hospital and his colleagues have been studying 
+super-agers for several years. Their results suggest that embracing 
+new mental challenges may be the key to preserving both brain tissue 
+and brain function.
 
-In one study, 81 healthy adults — 40 of whom were 60 to 80 years old and 41 of whom were 18 to 35 — were read a list of 16 nouns six times. Twenty minutes later, they were asked to recall as many of the words as possible. While 23 of the older participants recalled nine or fewer words, a score considered average for their age group, 17 seniors — the super-agers — could remember 14 words or more, a score similar to that of the younger participants.
+In one study, 81 healthy adults — 40 of whom were 60 to 80 years old 
+and 41 of whom were 18 to 35 — were read a list of 16 nouns six times. 
+Twenty minutes later, they were asked to recall as many of the words 
+as possible. While 23 of the older participants recalled nine or 
+fewer words, a score considered average for their age group, 17 
+seniors — the super-agers — could remember 14 words or more, a score 
+similar to that of the younger participants.
+
+
+## superstition
+
+[ˌsuːpərˈstɪʃn]
+
+*n.*
+迷信; 迷信行为
+
+- That sounds like a silly superstition.
 
 
 ## surreal

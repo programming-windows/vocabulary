@@ -18,7 +18,15 @@ That's your entire profit margin.
 那可是你全部的利润。\
 Oh. Then never mind.
 噢，那就算了。
-6. 
+6. in a good mood 心情好
+    - So, did you tell him about Princeton yet?
+    - No, I'm waiting till he's in a good mood.
+7. Moral: failure in the beginning may prepare the way for later success
+8. one should not defecate where one eats. 兔子不吃窝边草。
+9. Let ... rip. 不受抑制地、毫无拘束地行动；放肆无礼地说话。
+    - Let it rip, Bax. 好好干，Bax。
+    - Let's rip. 让我们来个了断。
+10. 
 
 
 

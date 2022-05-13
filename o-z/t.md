@@ -1,4 +1,4 @@
-# T-Z
+# T
 
 ## Tag, you're it
 
@@ -123,6 +123,14 @@ of the thing just mentioned; of that.
 ![](pix/seat_covers.jpg)
 
 
+## toothpick
+
+[ˈtuθˌpɪk]
+
+*n.*
+牙签
+
+
 ## top-notch
 
 [ˌtäpˈnäCH]
@@ -229,166 +237,5 @@ vi.
 We want to see if they twirl their junk in the other direction.
 
 [大爆炸片段](https://www.ixigua.com/7010030799319892493)
-
-
-## urinate
-
-[ˈjʊrəneɪt]
-
-vi.
-排尿，撒尿
-
-I have to urinate
-
-
-## venomous snake
-
-[ˈvɛnəməs]
-
-毒蛇
-
-
-## veteran
-
-ˈvetərən]
-
-*n.*
-经验丰富的人，老兵; 退伍军人
-
-The veteran teacher accumulated rich teaching experiences.
-\
-那位老教师积累了丰富的教学经验.
-
-
-## veterinarian / vet
-
-[ˌvetərɪˈneriən]
-
-n.
-<正>兽医
-
-
-## viable
-
-[ˈvaɪəbl]
-
-*adj.*
-capable of working successfully; feasible.
-
-- If this is a viable thing, we could get a patent. 如果真可行
-
-[大爆炸片段](https://www.ixigua.com/7053757808293970462)
-
-
-## vinegar
-
-[ˈvɪnɪɡər]
-
-n.
-醋
-
-Did they put vinegar inside? 放醋了吗？
-
-
-## wack
-
-[wæk]
-
-*slang* Really bad or undesirable.
-
-That movie was really wack.\
-It's wack, the worst ever. 太垃圾了，史上最烂。
-
-
-## wager
-
-[ˈwedʒɚ]
-
-*n.* 
-赌金，赌注; 赌物; 赌博 \
-*vt.& vi.*
-打赌; 担保，保证 \
-*vt.*
-保证，担保; 下赌注
-
-- All right, you have a wager.
-- I have lose the wager.
-
-[stake](s.md#stake)
-
-
-## wasted
-
-喝醉了，喝高了
-
-He's so wasted. 他真喝高了。
-
-
-## weenie
-
-[ˈwini]
-
-n.
-[美国口语]]维也纳火腿肠; 给成功罩上阴影的东西; 蠢货[亦作 weeny, winie,wiener,ween]
-
-![weenie](pix/weenie.jpg)
-
-
-## weirdo
-
-[ˈwɪrdoʊ]
-
-n.
-古怪的人，奇怪的人
-
-
-## what'cha been doin'
-
-What have you been doing?
-
-
-## what'cha talking about
-
-What are you talking about?
-
-
-## what'cha think
-
-What do you think?
-
-
-## whiney
-
-['waɪnɪ]
-
-adj.
-好发牢骚的，嘀咕不停的，烦躁的，
-喋喋不休
-
-habitually complaining
-
-
-## wig
-
-[wɪɡ]
-
-n.
-假发，法官帽; 〈美俚〉知识分子
-
-He disguised himself with a wig and false beard.
-
-
-## workshop
-
-[ˈwɜːrkʃɑːp]
-
-n.
-工坊。车间; 研讨会
-
-- mahjong workshop 麻将工坊
-- jianbing workshop 煎饼工坊
-- carpentry workshop 木匠工坊
-- kids workshop
-
 
 

@@ -117,12 +117,24 @@ n.
 v.
 抛弃; 甩掉; （使）紧急迫降
 
-She ditched me and she's leaving me to finish off the vlog without her.\
-Did you ditch class today? 你今天逃课了？\
-He ditched his girlfriend.\
-That doesn't give you the right to ditch me! 那不是放我鸽子的好理由
+- She ditched me and she's leaving me to finish off the vlog without her.
+- Did you ditch class today? 你今天逃课了？
+- He ditched his girlfriend.
+- That doesn't give you the right to ditch me! 那不是放我鸽子的好理由
+- I'm not the kind of girl that just ditches her friends
+to be with her boyfriend.
 
 [老友记片段](https://www.ixigua.com/7038462895612494367)
+
+
+## dizzy
+
+[ˈdɪzi]
+
+*adj.*
+（使人）眩晕的; 愚蠢的\
+*v.*
+使眩晕; 使困惑
 
 
 ## doughy
@@ -132,6 +144,18 @@ That doesn't give you the right to ditch me! 那不是放我鸽子的好理由
 劲道
 
 The noodles are a lot more doughy 面条更劲道些
+
+
+## dour
+
+[dʊr, daʊr]
+
+*adj.*
+死气沉沉的；严厉的; 阴沉的; （岩石）嶙峋的; 顽强不屈
+
+The goods are priced out dour reach.
+\
+东西死贵,我们买不起。
 
 
 ## down the drain
@@ -183,6 +207,18 @@ stupid; contemptible.
 - dumbass politicians
 
 
+# dusk
+
+[dʌsk]
+
+*n.*
+黄昏，傍晚; 暮色
+
+- She turned and disappeared into the dusk.
+\
+她转身消失在暮色中。
+
+
 ## eggplant
 
 [ˈeɡplænt]
@@ -216,6 +252,16 @@ endangered animal
 随从；随行人员
 
 - Right. You're Howard's entourage.
+
+
+## envision
+
+[ɛnˈvɪʒən]
+
+*vt.*
+设想; 想象; 预想
+
+- Is this how you envisioned your weekend? 你预期中的周末是这样的吗？
 
 
 ## extinct

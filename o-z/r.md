@@ -96,6 +96,11 @@ having kind of a science retreat this weekend. 这周末开一个科学静思会
 [大爆炸片段](https://www.ixigua.com/7009152166753796621)
 
 
+## ridonkulous 
+
+A humorous and exaggerated way of saying "ridiculous."
+
+
 ## rink / ice rink
 
 [rɪŋk]

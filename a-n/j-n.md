@@ -35,6 +35,29 @@ Please refer to:
 袋鼠
 
 
+## kick
+
+*informal* *n.* \
+the sharp stimulant effect of something, especially alcohol:
+- strong stuff, this brew: he felt the kick
+
+a thrill of pleasurable, often reckless excitement：
+- rich kids turning to crime just for kicks
+- I get such a kick out of driving a race car
+
+a specified temporary interest or enthusiasm:
+- I went on a bit of a license kick. 我有段时间迷上了考照
+- the jogging kick
+
+
+## kick scooter - push-scooter
+
+A kick scooter is a human-powered street vehicle with a handlebar, 
+deck, and wheels propelled by a rider pushing off the ground with 
+their leg. 
+![](pix/kick-scooter.jpeg)
+
+
 ## kiosk
 
 [ˈkiːɑːsk]
@@ -215,6 +238,18 @@ What kind of maniacs have coitus in someone else's bedroom?!
 媒婆，红娘
 
 
+## matrimony
+
+[ˈmætrɪmoʊni]
+
+*n.*
+结婚，婚礼；婚姻生活
+
+- We are gathered here today 今天我们齐聚在此 \
+to join this man 参加这个男人 \
+and this woman in the bonds of holy matrimony. 跟这个女人的神圣婚礼。
+
+
 ## meddle
 
 *v.*
@@ -281,6 +316,18 @@ heck instead of hell,  shoot for shit, golly and gosh for God, jeepers creepers 
 - I moonlight as a travel guide.
 \
 我以导游做兼职工作.
+
+
+## mopey
+
+['mɒpɪ]
+
+*adj.*
+无精打采的，闷闷不乐的，消沉的
+
+- Are you gonna be this mopey all the way home?\
+回家路上你要一直也这么丧吗？
+
 
 ## nag
 

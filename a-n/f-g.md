@@ -138,6 +138,15 @@ Snow buntings flock during a snow storm in New York
 </center>
 
 
+## comfort food
+
+[ˈkʌmfət fud]
+
+food that provides consolation or a feeling of well-being, 
+typically any with a high sugar or other carbohydrate content 
+and associated with childhood or home cooking.
+
+
 ## foodie
 
 [ˈfudi]
@@ -187,6 +196,24 @@ Carve the fowl into 8 pieces.
 ## funny business
 
 恶作剧
+
+
+## fuss : make a fuss over someone
+
+Treat someone with excessive attention, solicitude, or affection\
+呵护备至
+
+- Whenever they visit Grandma she makes a fuss over the children.
+- You just want to go back 你就是想回到那个\
+'cause that's where everybody makes a fuss over you. 大家都稀罕你的地方吧。
+
+
+## fuss : what all the fuss is about
+
+到底怎么回事，怎么个情况
+
+- You kids talk about this place so much, 你们这些孩子经常提起这个地方，\
+we thought we'd see what all the fuss is about. 我们想看看这里到底有什么特别。
 
 
 ## G-rated
