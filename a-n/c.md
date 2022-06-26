@@ -39,6 +39,16 @@ The show includes canvases by masters like Carpaccio, Canaletto and Guardi.
 画展上有卡尔帕乔、卡纳莱托和瓜尔迪等大师们的油画作品
 
 
+## cardio
+
+['kɑrdɪoʊ]
+
+*n.*
+有氧运动 \
+*pref.*
+表示心
+
+
 ## carpentry
 
 [ˈkɑrpəntri]
@@ -63,6 +73,11 @@ cart, go-kart, utility cart, tool cart, computer cart, luggage cart, ice cream c
 food cart, and beverage cart.
 
 
+## egg carton
+
+![](pix/egg-carton.jpg)
+
+
 ## carve
 
 [kɑːrv]
@@ -74,6 +89,13 @@ v.
 - By all means. 当然可以
 
 [老友记片段](https://www.ixigua.com/7010279669651997198)
+
+
+## catch up
+
+别后叙谈
+
+Excuse me, Ross, old friends catch up. 对不起，罗斯， 我们老朋友正在叙旧呢。
 
 
 ## catwalk
@@ -156,6 +178,17 @@ It's like the perfect kind of chubby 它(大熊猫)就像是那种完美的可�
 ![chuckle-brothers.jpg](pix/chuckle-brothers.jpg)
 
 
+## circulation
+
+[ˌsɜːrkjəˈleɪʃn]
+
+*n.*
+（报刊）发行量; （血液）循环; 流通; 社交活动
+
+- Working out early in the morning improves your energy levels and your 
+circulation, and encourages good lymphatic function. 
+
+
 ## claustrophobia
 
 [ˌklɔstrəˈfoʊbiə]
@@ -182,7 +215,14 @@ over with a clean slate?
 n.
 分裂; [胚] 卵裂; 乳沟
 
-Mary's gown exposes too much cleavage.
+- Mary's gown exposes too much cleavage.
+
+
+## clippers
+
+['klɪpəz]
+
+（理发）推子
 
 
 ## clog
@@ -221,6 +261,14 @@ Mary's gown exposes too much cleavage.
 
 adj.
 强迫的; 义务的; 规定的
+
+
+## concierge
+
+[kɔnˈsjerz]
+
+*n.*
+酒店前台职员，礼宾员；看门人，门房
 
 
 ## confidential

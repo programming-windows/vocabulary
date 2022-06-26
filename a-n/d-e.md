@@ -166,6 +166,11 @@ All that work ... down the drain. 所有的努力都付之东流
 The case is going down the drain. 该案将前功尽弃了
 
 
+## dozer / bulldozer / pushdozer
+
+推土机
+
+
 ## drape
 
 （窗帘的）帘子；帷帘，帷幕
@@ -262,6 +267,24 @@ endangered animal
 设想; 想象; 预想
 
 - Is this how you envisioned your weekend? 你预期中的周末是这样的吗？
+
+
+## episode
+
+[ˈepɪsoʊd]
+
+*n.*
+一集，一节; 插曲，一段经历; （病症）发作期
+
+
+## excerpt
+
+[ˈeksɜːrpt]
+
+*n.*
+摘录，选段 \
+*v.*
+摘录，节选
 
 
 ## extinct

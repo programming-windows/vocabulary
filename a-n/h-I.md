@@ -240,6 +240,11 @@ It would be humiliating. 那会好丢脸
 [大爆炸片段](https://www.ixigua.com/7022291308823708174)
 
 
+## ice pack
+
+![](pix/ice-pack.jpg)
+
+
 ## inevitable
 
 [ɪnˈevɪtəbl]

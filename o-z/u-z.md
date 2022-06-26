@@ -11,6 +11,18 @@ vi.
 I have to urinate
 
 
+## veal
+
+[vil]
+
+*n.*
+小牛肉; 小牛
+
+- Food prices rose 1.2 percent, led by increases in vegetables, rice, beef and veal.
+\
+食品价格上涨1.2%, 领先与蔬菜 、 大米 、 牛肉和小牛肉价格的上涨.
+
+
 ## venomous snake
 
 [ˈvɛnəməs]

@@ -49,7 +49,8 @@ n.
 vt.
 翻新胎面；扼要重述
 
-Recap of Lectures 1-3
+- Recap of Lectures 1-3
+- Let’s quickly recap the advantages and disadvantages of DP and the MC method.
 
 
 ## red zinger
@@ -67,6 +68,16 @@ Are you coming to the rehearsal with me? 你们要和我一起去彩排现场吗
 Miss Waltham is at the rehearsal dinner. 华森小姐去排练婚礼餐会了。
 
 [老友记片段](https://www.ixigua.com/7033656022572991012
+
+
+## reindeer
+
+[ˈreɪndɪr]
+
+*n.*
+<动>驯鹿
+
+- Santa's reindeer
 
 
 ## residence
@@ -107,6 +118,18 @@ A humorous and exaggerated way of saying "ridiculous."
 
 n.
 溜冰场; 冰球场; （草地）木球场
+
+
+## rinse
+
+[rɪns]
+
+*vt.*
+漂洗; 冲洗; 漂净; 冲掉
+*n.*
+冲洗; 染发剂; 漂洗
+
+- rinse your hair
 
 
 ## ritual

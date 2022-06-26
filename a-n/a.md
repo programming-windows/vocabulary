@@ -89,6 +89,27 @@ vt.
 Quick! Someone's ambushed our Guardians.
 
 
+## amount to anything
+
+to turn out to be (something or someone important, impressive, etc.)
+
+- I don't think he'll ever amount to anything.
+- We are not certain that this argument amounts to anything more than 
+the assertion that the State has the right to control the moral content 
+of a person's thoughts.
+
+
+## amount to nothing
+
+1. To fail to become successful or significant.
+    - He got arrested so much as a teenager that I thought he would 
+    amount to nothing, but look at him now — he's an accomplished musician!
+
+2. To result in no tangible or appreciable difference.
+    - I worked really hard on my pitch, but it all amounted to 
+    nothing — the company went with a different ad agency.
+
+
 ## ample
 
 [ˈæmpl]
@@ -124,6 +145,11 @@ adj.
 Just ... feels a little anticlimactic.
 
 [大爆炸片段](https://www.ixigua.com/7005167121772741133)
+
+
+## apartment complex
+
+小区
 
 
 ## apple of my eye
@@ -185,6 +211,14 @@ a distinctive, typically pleasant smell.
 #### Fragrant. Term applied to wines with pronounced and pleasing aroma.
 
 
+## pain in the ass
+
+*n.*
+令人讨厌、憎恨，指人是眼中钉、肉中刺
+
+- Pain in the ass. 烦死了。
+
+
 ## at stake
 
 *adv.*
@@ -201,7 +235,9 @@ There was a lot at stake.
 adj.
 正宗的; 真正的; 真诚的; 逼真的; 可靠的
 
-would you say this is pretty authentic 非常正宗
+- would you say this is pretty authentic 非常正宗
+- We just came to one of the more 我们刚刚来到一个 \
+supposedly authentic restraunts in the city 据说是城里很正宗的中餐馆
 
 
 ## awkward

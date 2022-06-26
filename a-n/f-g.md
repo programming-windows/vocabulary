@@ -224,6 +224,14 @@ adj.
 [电影]G级的；老幼皆宜的
 
 
+## genre
+
+[ˈʒɑːnrə]
+
+*n.*
+类型，种类; 体裁，样式; 风俗画
+
+
 ## get back at
 
 [ɡɛt bæk æt]
@@ -271,6 +279,14 @@ And try not to be total pussies and give away the whole farm. 别太懵逼了以
 卡丁车
 
 
+## goatee
+
+[goʊˈti]
+
+*n.*
+山羊胡子
+
+
 ## godspeed
 
 (对启程的人的祝愿语)成功；一路顺风
@@ -288,6 +304,13 @@ the 1830s in hopes of diverting people away from the less healthy refined white 
 
 adj.
 全麦（面粉）的，粗面粉的
+
+
+## devil ray / stingray
+
+魔鬼鱼无勾刺，stingray有勾刺
+
+https://www.youmustknow.net/do-devil-rays-have-stingers/
 
 
 ## greasy

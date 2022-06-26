@@ -63,6 +63,13 @@ bad mood · mood · huff · scene · mard · shit fit
 Hey, umm, do you guys have that tape measure?
 
 
+## taro
+
+['tɑroʊ]
+
+芋头
+
+
 ## terabyte
 
 [ˈtɛrəˌbaɪt]
@@ -121,6 +128,17 @@ of the thing just mentioned; of that.
 
 ![](pix/seat_cover.jpg)
 ![](pix/seat_covers.jpg)
+
+
+## toning
+
+['toʊnɪŋ]
+
+*n.*
+调色（法），相片调色，调匀颜色; 调音
+
+- all-over toning 全身调理
+- Mix up cardio and weights throughout the week for **all-over toning** and general health.
 
 
 ## toothpick
@@ -196,9 +214,16 @@ A transcript and audio of the segment are available online.
 adj.
 <医>外伤的损伤的; 创伤的; 治外伤的
 
-I think what we're all trying to say is, how traumatic the experience was for you
+- I think what we're all trying to say is, how traumatic the experience was for you
+- Divorce can be traumatic for everyone involved.
 
-Divorce can be traumatic for everyone involved.
+
+## trilogy
+
+[ˈtrɪlədʒi]
+
+*n.*
+（小说、戏剧、音乐等的）三部曲
 
 
 ## trim your nails
@@ -221,6 +246,13 @@ n.
 <非正>胃，肚子
 
 yummy in my tummy
+
+
+## turn in
+
+[tɚn ɪn]
+
+上床睡觉; 上交; 归还; 面向内
 
 
 ## twirl

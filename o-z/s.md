@@ -70,6 +70,18 @@ rich and savory like American style 厚油而丰富的美式风格
 tech savvy 精通技术, 技术大拿
 
 
+## scrappy
+
+[ˈskræpi]
+
+*adj.*
+混乱的; 散乱的; <美>好斗的; 好吵架的
+
+- You're also so generous and kind and scrappy!
+\
+你现在还很慷慨,善良,斗志旺盛!
+
+
 ## screen
 
 [skriːn]
@@ -81,6 +93,13 @@ tech savvy 精通技术, 技术大拿
 
 If you're listening to this message, we're probably screening. 
 如果你听到这个留言，那很可能是我们的筛选电话。
+
+
+## come to one's sense
+
+醒悟，想明白，恢复理智；苏醒过来
+
+I'm sure she'll come to her senses and pick you. 她肯定会醒悟过来选你的。
 
 
 ## serene
@@ -199,6 +218,19 @@ that you hope they sleep well:
 - Good night, Pat, sleep tight!
 
 
+## city slicker
+
+[ˈsɪti ˈslɪkɚ]
+
+*n.*
+<美口>时髦或世故的城市人
+
+- Pudding is a city slicker. （狗狗）布丁是个城市娃娃。
+- That city slicker was out of his element out on the farm.
+\
+那个城市佬在农场里是如鱼离水,不得其所.
+
+
 ## slim to none
 
 almost none
@@ -213,6 +245,8 @@ almost none
 
 adj.
 似黏液的; 黏滑的; <贬>谄媚的; 虚伪的
+
+- Tasted like a slimy piece of fish. 尝起来象滑溜溜的小鱼
 
 
 ## slob
@@ -369,6 +403,21 @@ after watching season 1 of Bridgerton which chronicled the
 relationship between Daphne (Phoebe Dynevor) and Simon (Regé Jean-Page).
 
 
+## stooge
+
+[studʒ]
+
+*n.*
+走狗。喜剧里的配角或丑角，助手，伙伴
+
+- I'd play stooge to him in the performance.
+\
+在表演中我来给他当作配角.
+- The charge that Harding was a political stooge may be a canard.
+\
+关于哈丁是个政治走狗的指控可能是个谣传。
+
+
 ## straighten up
 
 [ˈstretn ʌp]
@@ -398,6 +447,14 @@ What does the expression “be stretched thin” mean?
 
 **Example**: Our staff is really stretched thin at this time of year—lots of people are on 
 vacation, but the workload doesn’t diminish.
+
+
+## styrofoam
+
+['staɪrəfoʊm]
+
+n.
+泡沫聚苯乙烯
 
 
 ## suger-daddy, suger-baby, and uncle suger = uncle Sam

@@ -3,6 +3,7 @@
 中餐调味品
 
 Hubei Cuisine 楚菜
+to go meal 打包带走吃的食物 (通常 in a styrofoam box)
 
 
 ## 1 Chinese Five Spice Powder Recipe
@@ -25,6 +26,8 @@ Hubei Cuisine 楚菜
 - smoked meat 熏肉
 
 
+
+
 ### 
 
 - cilantro [sɪˈlæntroʊ] 香菜
@@ -33,14 +36,36 @@ Hubei Cuisine 楚菜
 - oyster sauce 耗油
 - vinegar [ˈvɪnɪɡər] 醋
 - bean dip 豆酱
+- bean curd 腐竹
 - cumin [ˈkʌmɪn, ˈkumɪn, ˈkju-] 孜然
 
+- taro ['tɑroʊ] 芋头
+- lotus root 莲藕
+
+
+### drinks
+
+- Plum wine [plʌm waɪn] 梅子酒
+- plum juice 酸梅汤
+
+
+### 
 
 - stir it all up 拌一下
 
-## sizzling fish 沸腾鱼
+
+## dishes
+
+### sizzling fish 沸腾鱼
 
 ![sizzling-fish.jpg](pix/sizzling-fish.jpg)
+
+
+## snacks
+
+- steamed rice rolls 肠粉
+- soup dumplings 小笼包
+- fried dumplings 煎饺
 
 
 

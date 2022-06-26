@@ -28,6 +28,18 @@ Please refer to:
 - [minced oaths](#minced-oaths)
 
 
+## jolly
+
+[ˈdʒɑːli]
+
+*adj.*
+快活的; 兴高采烈的; 愉快的; 有趣的
+
+- For she's a jolly good fellow 因为她是个快乐的好人 \
+For he's a jolly good fellowwwwwww \
+which nobody can deny 没人能否认
+
+
 ## kangaroo
 
 [ˌkæŋɡəˈruː]
@@ -74,6 +86,17 @@ n.
 
 *n.*
 球形把手; （收音机等的）旋钮; 小块; 疙瘩
+
+
+## kook
+
+[kuk]
+
+n.
+<美口>怪人; 疯子; 怪癖的; 疯狂的
+
+- Okay, so I'm responsible, I'm organized. But I can be a kook. \
+  好吧，所以我有责任心，我有条理，但也可以是一个怪人。
 
 
 ## kudos
@@ -166,6 +189,14 @@ Hey, come on, give me a break. I'm out on a limb here.
 [老友记片段](https://www.ixigua.com/7006282798499627550)
 
 
+## lingerie
+
+[ˌlɑndʒəˈreɪ]
+
+*n.*
+女用贴身内衣裤
+
+
 ## literacy
 
 [ˈlɪtərəsi]
@@ -186,10 +217,18 @@ Hey, come on, give me a break. I'm out on a limb here.
 
 [ˈluːnətɪk]
 
-n.
-精神失常者，精神病人; 疯子; 极愚蠢的人; 狂人
-adj.
+*n.*
+精神失常者，精神病人; 疯子; 极愚蠢的人; 狂人 \
+*adj.*
 疯狂的; 精神错乱的; 愚蠢的; 极端的
+
+
+## lymphatic
+
+[lɪm'fætɪk]
+
+*adj.*
+淋巴的; 分泌淋巴的; 输送淋巴的; （指人）苍白无力的
 
 
 ## make out with
@@ -256,6 +295,18 @@ and this woman in the bonds of holy matrimony. 跟这个女人的神圣婚礼。
 干涉，插手; 弄，摸弄，用手玩弄; 参与，发生关系
 
 - You meddled in our relationship! 你插手了我们的关系
+
+
+## mediocre
+
+[ˌmiːdiˈoʊkər]
+
+*adj.*
+普通的; 平庸的；中等的; 质量中等偏下的
+
+- Mediocre oyster bar 多么普通的生蚝店\
+it's very mediocre 太平庸了 \
+But we paid $100 dollars 但我们付了100美元
 
 
 ## menage a trois

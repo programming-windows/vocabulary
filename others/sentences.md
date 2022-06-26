@@ -26,7 +26,10 @@ Oh. Then never mind.
 9. Let ... rip. 不受抑制地、毫无拘束地行动；放肆无礼地说话。
     - Let it rip, Bax. 好好干，Bax。
     - Let's rip. 让我们来个了断。
-10. 
+10. I was otherwise engaged. 当时我在忙别的事
+11. What did Phoebe mean when she said four-oh-wunk in Friends episode 21 season 9? \
+She was referring to a 401K, the US retirement savings account. As Phoebe was mostly self 
+employed, when she was finally hired by an employer, a 401K was unheard of to her.
 
 
 

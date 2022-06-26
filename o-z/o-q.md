@@ -32,6 +32,15 @@ I'm kind of obsessed with this place. 我有点爱上这个地方了。
 Do you even understand what "off-the-rack" means? 你到底知不知道“现成的”是啥意思?
 
 
+## ottoman
+
+[ˈɑtəmən]
+
+*n.*
+脚凳；
+（无靠背、无扶手的）长软椅; （装有厚垫靠背的）褥榻; 软垫搁脚凳; [纺织业]粗横棱纹织物
+
+
 ## out of your hair
 
 俚语
@@ -126,6 +135,16 @@ a pertinent question/fact 有关的问题 / 事实
 
 Each name specified within the XAML page starting at the page root is added to a 
 pertinent XAML namescope.
+
+
+## perm （permanent）
+
+[pɜrm]
+
+*n.*
+电烫发 \
+*vt.*
+烫发
 
 
 ## pervert
@@ -278,6 +297,11 @@ a sentence when the speaker is tired of the subject.
 
 n.
 柚子
+
+
+## ponytail
+
+马尾发
 
 
 ## portal

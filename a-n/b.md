@@ -20,6 +20,27 @@ desire to have children. While it is often portrayed in women, we noticed it in 
 Yes! You want babies! You have baby fever!
 
 
+## bang on
+
+[bæŋ ɑn]
+
+*n.*
+好，了不起，飞中目标
+
+- because the job they do is always bang on
+- When you say something is bang on, 
+it just means that it's done perfectly.
+
+## bang-up
+
+[ˈbæŋˌʌp]
+
+*adj.*
+极好的
+
+- She always does a bang up job.
+
+
 ## banging body
 
 ['bænɡɪŋ]
@@ -39,7 +60,7 @@ I mean, look at you. Your body is bangin'!
 *adv.*
 勉强; 几乎不; 刚刚…（就）
 
-Honestly, I barely passed my test. 老实说，我勉强通过了测试。
+- Honestly, I barely passed my test. 老实说，我勉强通过了测试。
 
 
 ## barrel in(to)
@@ -58,7 +79,6 @@ Honestly, I barely passed my test. 老实说，我勉强通过了测试。
 
 参见：
 - [wgno.com](https://wgno.com/tracking-ida/breaking-hurricane-ida-now-a-category-4-storm/)
-- [跟艾伦一起学英语](https://www.ixigua.com/7002284326100402724)
 
 
 ## bachelor pad
@@ -97,6 +117,23 @@ a typical apartment of an unmarried man\
 壮实的；牛肉似的; 结实的，肌肉发达的
 
 - Wei is pretty beefy individual 伟有相当壮实的体型
+
+
+## beet
+
+[biːt]
+
+*
+n.*
+甜菜
+
+
+## to/until the bitter end
+
+until the end of something that may be very bad, unpleasant, etc.
+
+- I knew she would stand by me to the bitter end.
+- He vowed that he would keep fighting until the bitter end.
 
 
 ## blanch
@@ -150,6 +187,30 @@ n.
 ![](pix/shoes_covers.jpeg)
 
 
+## booth
+
+[buːθ]
+
+*n.*
+小摊；（摆摊的）摊位；小隔间; 电话亭; 售货摊; 展位
+
+- So on this side of the street, we have all these little booths 街道的这边是很多小摊子 \
+that rondom people have just come and set up along the side of the road 人们自己到路边摆的 \
+and on this side you have the stores 这一边就是商店
+
+
+## bootstrapping
+
+['butstræpɪŋ]
+
+*n.*
+步步为营法
+
+- That is, to compute the value of a state, we don’t have to wait till the end of the 
+episode, instead, using the Bellman equation, we can estimate the value of a state 
+just based on the value of the next state, and this is called bootstrapping.
+
+
 ## bosom
 
 [ˈbʊzəm]
@@ -180,11 +241,29 @@ Actually, what you're doing is pretending to complain, 其实你是假抱怨\
 but really trying to brag. 真显摆。
 
 
+## braid
+
+[breɪd]
+
+*n.*
+发辫; 辫子; 穗带; 编织物
+
+- braid rope 编织绳
+
+
 ## brain juice
 
 The knowlage found in someones mind that may be exercised of them like juice from an orange.
 
 （类似）心灵鸡汤(Chicken Soup for the Soul, Boost Your Brain Power!)
+
+
+## broads
+
+[brɔ:dz]
+
+*n.*
+（对女人的粗俗称呼）婆娘( broad的名词复数 )
 
 
 ## broil
@@ -253,3 +332,8 @@ covered with butter.
     - greasy · fatty · swimming in oil/fat · oleaginous
 
 [老友记片段](https://www.ixigua.com/7051888411879473695)
+
+
+## buzz cut
+
+寸头发型（头发理得很短，贴近头皮）
